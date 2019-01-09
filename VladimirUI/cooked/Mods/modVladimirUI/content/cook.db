@@ -1,0 +1,774 @@
+{
+    "files": [
+        {
+            "path": "gameplay\\gui_new\\icons\\alchemy\\alchemy_ring.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A29F27E5-09FDDB9C-32C43C1E-6ED3F1FD"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\crafting\\crafting_ring.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8A664D30-31EF13A4-5A25194D-1D4CEBDC"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-01-greater-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A2D7EBE0-34B9CB97-CE9FF55D-A8365FD6"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-01-lesser-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3E38CC69-3E33E47B-D421A254-12429FF9"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-01-normal-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "16ACD297-BB0C53CF-BDC77128-BCB90BD5"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-01-unique-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "76420630-93DFD42E-0E48B542-39BE701A"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-02-greater-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "101AF39C-C7657C58-E5995FB3-CD0F1B0E"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-02-lesser-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "66C4D000-320171FE-EF396002-219BB19F"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-02-normal-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3FCD0790-1B5798FE-DDAA8C63-D22DCDD4"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-02-unique-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "54D2B790-6D429235-FF1CB224-10BABC19"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-03-greater-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "84B959A3-6CBF989D-8BDC4476-C2276FDF"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-03-lesser-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2FF8DE41-77E4C2BC-9CFFF94E-98A6C6CB"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-03-normal-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F2D598D5-6CCF7767-F05410A3-11DCEAE7"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-03-unique-64x64.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "146972C0-DF499A57-5D9150DD-9141C695"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\mappanel.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "69B7AC46-638CB2E5-041DD28A-89D5099B"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\mappanel3.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6054BD92-C20BBE56-D9CA16EF-06DD0EDA"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\mappanel4.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E10A9A86-E7992923-DDB6BD4A-E6F63A73"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\mappanel5.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4A8E047D-FAA6B06C-FFE2D062-9D9D22F9"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\vhud_background_common1.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "24BBD131-CB0E10AD-8D445258-466E4352"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\vhud_background_common2.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3EBEA7F5-413E475D-F97E3243-6B7D98EE"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\vhud_background_common3.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1F138ACA-FCFA9F94-1DE8C4E7-AC848D0D"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\vhud_background_common5.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7A37AB32-D9509668-2B7FD8F4-C8543FA6"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\vhud_background_common6.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D2B9F1C7-A4527244-955E1818-945D7A70"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\vhud_background_common7.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AF119B91-0239E902-E9412833-8876A7BA"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\vhud_background_common8.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "481909F2-9AA4FA99-D3724BFC-B07F6E23"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\vhud_background_meditation.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "67B3938A-1F33CE30-70D3F628-8C55FD31"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menuhub\\img_background_glossaryparent.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4A5A8443-3F72B006-C8C7F6E1-FDB58FFF"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menuhub\\img_background_inventorymenu.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BE58E909-66C3B45C-303CBC3D-71A9833C"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\menuhub\\img_background_mapmenu.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3956D407-E57BD39F-5336A333-82686AE4"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s1.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A9C3EF5C-70AE80ED-411339C5-DDF5EC5E"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s10.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6D8BA03F-76F40B6F-55A0B305-8842C5D9"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s10c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CDE7689C-A1C0F6C8-1B9011D7-F71F445E"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s11.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "86411D31-C78153BC-FD509CCA-1D590E82"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s11c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0EF6D696-738E26F3-E8520EC0-BB79ABE0"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s12.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "990FF183-7A07D703-D240CA4F-1255552B"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s12c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C985B940-9C232629-1A5FB723-E53109DC"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s13.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "394C01E6-58D04352-CAD2B602-A0E4119A"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s13c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "80766935-F0FC82FD-4BB45521-36012A62"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s14.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FB5329AF-E528C004-7671D36F-17C7AABE"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s14c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1273EBBB-AC8B5697-58FB02DA-552E07DF"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s15.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8C0460A0-B0FE9915-F0EDAEBE-F9F9BA51"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s15c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D93ED159-80E944B3-E2FBDE31-BA749D9A"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s16.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5ACC8005-704DF2DC-DA61BCBF-B57F694D"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s16c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "001950E5-A0732308-DDB1CDA0-8B5CE135"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s17.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4D5B3838-54D1A4C9-7569CC9F-5DF3BD08"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s17c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "67EBFF33-643817EF-AB812875-524AA514"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s18.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "102DE4E0-A74D6949-62A29A36-B5E9B9B1"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s18c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8047FD99-66C9C727-CAF686C3-CA5E9C44"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s19.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "74FCFBBF-C0188A1A-D9255605-AE1AEFD2"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s19c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "22E5B20B-964BB05F-CB36367D-6C587AC5"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s1c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AD8526C5-FCA8D749-D6A58059-5407404D"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s2.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B7A0597C-56A28797-08E4A029-2E537461"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s20.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CA44547F-062606C6-98A56BD4-81DBEFD2"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s20c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A4289543-7009A1BE-463005EC-46A0513F"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s21.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "28093F9B-2A83B92C-DDE26598-FA13BBB0"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s2c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F4B6CB19-9751D2F3-3DF29D27-A639F0E7"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s3.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "40A4B2B4-82F4EDA5-5E18DA69-DA09E35B"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s3c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "952BCED5-C0C53E4D-FBFEF577-C4FDA83E"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s4.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "521BBB3E-A2DDC2BF-595DA83C-051EE329"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s4c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "71F4C358-68A64785-72B744B3-AA16E7CB"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s5.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DD6F7E57-027EAC36-C6FE4C53-5403C9C1"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s5c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6C381541-ED398FD1-4B4C7EAE-ECE9F8A2"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s6.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EC27BE44-165D399B-FAA04FC7-A386D7D7"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s6c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9C96CF77-E105A4E4-CB5E82D8-CB1DE595"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s7.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "18B2ADD9-439B9DE9-42BD608B-6E23DB38"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s7c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C7AF528D-5AC9E6E0-7E56D0AE-6A9FC671"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s8.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3C087096-303AEDDD-95B93E3E-0D7BE2E3"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s8c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "16BE8746-78970E27-0F1B154B-EB2FACA9"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s9.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2D4838B2-B8E35666-B5D0571C-BC79A850"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s9c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F2A4D213-21898CE3-9D2B0E32-74FB45ED"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s1.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6A8039E7-BAE9F1AD-5B5FE5F8-5B1C0734"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s10.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C3F6FE78-F8FBC8A0-B74D7665-FE079379"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s10c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "71FC7325-5D74C34D-159C40DC-646DA15B"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s11.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "74DC6858-52A4B9CD-B7A7FD81-C2E9B105"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s11c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F41B7831-8DAA401C-F7BEDF82-53309EA8"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s12.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1F15FB8F-AB9E41B9-A4BBC473-5FA145A8"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s12c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3BE816BE-9C95B81B-C0106C4F-22689BF9"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s13.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B8D70F0F-6875491E-C01D9A38-C512D59E"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s13c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E1B8002F-D5D454A9-094AF163-8E716255"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s15.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "26E30C5F-A988C898-6CF5B7AC-6F3D30A9"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s15c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9D88F734-5E529A1A-D60D5B25-9ED6F16F"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s16.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A18C2A28-4C1C8FBE-B6A228DE-910B6DC5"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s16c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7AAF075E-EFB1F9D0-14F7A91D-2B6D06DF"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s17.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5385B27A-4C0F309E-EAF5D9D8-4EB12FD8"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s17c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1B415F93-A3E8C46D-8DFC38B9-3F3BCEF4"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s18.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DB8CAC2C-0476418B-1660EB24-D9500218"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s18c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "38CD4E11-3BFFCFF5-39E17329-52A6A51C"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s19.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5979F1D7-466D1C42-16094C31-29C9814B"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s19c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "560A4CC8-71BE6EE7-A89E5256-35174C78"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s1c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D88E32E6-9BE0823D-92CCFA8B-AE28E00C"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s2.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EFDFB7C1-19AFEA5A-8015D120-E03931CC"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s20.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B81FF347-2F65AF18-CA8AB976-A8B8F489"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s20c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4AA52E13-CC8C57BA-A8EB8863-1E082F54"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s21.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B1968D16-2E776DAD-EA142A7B-7326BA98"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s21c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "087635BB-F8E86279-90149D02-94209F1B"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s2c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8CEB80C0-A99EBB89-DE778596-21E32E66"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s3.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1976B403-CC788BF0-39C55A01-4DD1F7FE"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s3c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2108FA05-2505E4CB-846D664C-0C2651BB"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s4.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D1A98684-7D7BE371-A72FCE3B-270EA67A"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s4c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "99E222DB-26ECA20E-15F2A865-52022944"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s5.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "90FEF321-07949F42-B29173F4-9A8A0A4A"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s5c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "44691E0B-C25EA6BB-890962D2-7890E760"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s6.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8FC5AAA6-0349E3FF-A7D28A04-F81087A4"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s6c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "717C49EC-0B94119F-D23922F5-E7338C03"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s7.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7AFC0239-6530F738-45BBC751-5F685118"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s7c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "419D3D42-3C766252-C31F647D-D4F1E105"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s8.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AFAAB771-23DF4ABA-551E6171-3C8A8E92"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s8c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EF32DC3C-3FD4CFDE-AC5F8782-022DA0E8"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s9.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "277B8BF4-7416CB94-42A0DAAD-7479A098"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\sword\\sword_s9c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "44FAA52E-F7F02A2E-4EDC03EF-8B4D9050"
+        }
+    ]
+}
