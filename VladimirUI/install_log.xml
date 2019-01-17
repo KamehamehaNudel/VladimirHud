@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<InstalLog Project="VladimirUI" Build_date="23/05/2018 16:12:26">
+<InstalLog Project="VladimirUI" Build_date="17.01.2019 15:28:20">
   <Files>
-    <Directory Path="D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\DLC">
-      <Directory Path="D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI">
-        <Directory Path="D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content">
-          <file>D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content\blob0.bundle</file>
-          <file>D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content\metadata.store</file>
-          <file>D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content\texture.cache</file>
+    <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC">
+      <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI">
+        <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content">
+          <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content\blob0.bundle</file>
+          <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content\metadata.store</file>
+          <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content\texture.cache</file>
         </Directory>
       </Directory>
     </Directory>
-    <Directory Path="D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\Mods">
-      <Directory Path="D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI">
-        <Directory Path="D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content">
-          <file>D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content\blob0.bundle</file>
-          <file>D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content\metadata.store</file>
-          <file>D:\SteamLibrary\steamapps\common\The Witcher 3\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content\texture.cache</file>
+    <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods">
+      <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI">
+        <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content">
+          <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content\blob0.bundle</file>
+          <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content\metadata.store</file>
+          <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content\texture.cache</file>
         </Directory>
       </Directory>
     </Directory>
