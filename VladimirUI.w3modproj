@@ -1,6 +1,9 @@
 <?xml version="1.0"?>
 <W3Mod xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <LastOpenedFiles />
+  <LastOpenedFiles>
+    <string>D:\Users\Maarten\Documents\GitHub\VladimirHud\VladimirUI\files\Mod\Bundle\gameplay\gui_new\swf\worldmap\panel_worldmap.redswf</string>
+    <string>D:\Users\Maarten\Documents\GitHub\VladimirHud\VladimirUI\files\Mod\Bundle\gameplay\gui_new\swf\glossary\panel_glossary_tutorials.redswf</string>
+  </LastOpenedFiles>
   <Name>VladimirUI</Name>
   <version>1.0</version>
 </W3Mod>
