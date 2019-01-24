@@ -218,6 +218,286 @@
             "id": "8E59EFB9-F4AEE532-55C9EC26-2CBBF6A1"
         },
         {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s1.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1EA6B3EB-3FD63194-7752A6DF-DE60A97E"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s10.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A56C6A2B-525D124A-20FEEAA2-E6F2F108"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s10c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B0F7149D-687D2F6F-A20E24EA-E55E674A"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s11.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "77DEDE23-7F446F03-DEFD2425-4D35F703"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s11c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BBA63299-A77B1A1F-4CC7EAEB-49FDEEE1"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s12.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "286A4B49-2DB0AD2E-29212870-B294BD9E"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s12c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9EE2EC80-20F67B85-BF288FE3-CD988D30"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s13.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3A5A454A-E6CB0CB6-C298C138-5A157679"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s13c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BC1E45C5-0B0F7A1F-4F085F30-9B164512"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s14.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "55F92681-513C92EB-D0464A32-02E4EE4F"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s14c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EB672E9E-AD33F545-AD110006-6568B312"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s15.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5C07BA45-684734E5-B6ADE66A-B916ABCE"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s15c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4E171804-72546A42-29A84812-BB7C5AE8"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s16.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CC71923A-97032C2A-0DC9D476-2C95240C"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s16c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "34BA0056-1E6D918E-A52992E9-8E34AA4D"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s17.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "99D49EB2-ACA809AC-8F73F0B9-609894B1"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s17c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FF7FD913-346B9B97-BE48AC00-0263E9B4"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s18.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A629E7DD-F8A9EE74-960334F2-BA0F3CA6"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s18c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A22F3C17-88737034-E89FD208-4B04A5E5"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s19.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EAE333FE-4A7FC5A3-96CDCF52-D5F71974"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s19c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FC9E474D-99C44BAA-858588E6-2DA7EBA0"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s1c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A62546C0-50BD86CC-44D0930F-C66F708C"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s2.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A887FD7F-90C12C86-C10D82E7-A652927E"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s20.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D278FEFC-CB7A3C5C-FF05682C-183E30BC"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s20c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C5847003-BEE7A2D1-B0E361FE-884BBBAF"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s2c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E8384114-68267C6F-70F18398-C1ADAD8C"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s3.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "08AB448B-8BC93150-9FF22B58-B6DBE6F5"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s3c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BDAA8386-0D290510-26A1094C-D7DF2DDD"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s4.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7E72C136-6611294E-CA380AAF-9A7733D2"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s4c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "85A3B325-0247349E-7EA2D348-F8FDAAB9"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s5.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C46025FC-2884EAE9-BFD6A1FD-66FA2C8C"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s5c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AC4AE946-7765125A-EC2A054C-792D8F69"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s6.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8F35082B-87BCC5F3-1A40C866-E8293D94"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s6c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E6EE0E82-CAACB339-768626F4-B2D8D11B"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s7.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "10046DED-07612478-79014760-2E21D0D4"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s7c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "17EA78B2-379B11BA-58D31AF1-41FA0DDD"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s8.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F47E3B83-1BC0EF2D-AE00CC6D-682E1C96"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s8c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2274A5CB-7AE9FEB4-1CB670E7-F45FF675"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s9.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4FEC914F-D0E1374B-4AEA57DB-46DDB58A"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s9c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1E0CE56A-1F8E210E-E00A7352-ACC3245B"
+        },
+        {
             "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s1.png",
             "level": 0,
             "seed": 1,
@@ -783,6 +1063,2386 @@
             "seed": 1,
             "consumed": 1,
             "id": "44FAA52E-F7F02A2E-4EDC03EF-8B4D9050"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level1\\tile0x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8B6BAD74-20CF2EA0-959EBA7C-A9131B54"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level1\\tile0x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0752AB4B-29343B6A-4D33BD34-D90153C1"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level1\\tile1x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B562C11B-94168CC8-5AA1195A-A38AEA43"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level1\\tile1x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "16D23A81-7077B593-089C2D2B-9BB83CAD"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile0x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AF71530C-7878C831-43CA7500-037BB1A6"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile0x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B667230F-245054B4-106F8123-A68227F3"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile0x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0FE2CFFE-3BAC0A2A-81786C75-EE65E3B3"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile0x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0A2D7BC6-3A05248C-411A8CC5-DF16972B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile1x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B0D3DB50-07F300C3-7B068772-243E16C9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile1x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D1D8A181-BCC15681-8752CAD5-402FCC8F"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile1x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1AC14267-050370D4-F3241945-8FFB3E5C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile1x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "06B35A5A-9A4C11DB-2C9771EE-E61F49AE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile2x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "43C60AF3-14D6E702-1C3F464B-FB218FC8"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile2x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CD4E89FD-F5A58189-E00C3C6F-24EBF87A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile2x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C582DA29-7931AF8B-4DBFF1E1-E23209CD"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile2x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B4139626-2D64B694-BAD19D83-25D1D62E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile3x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DEE0B1D4-CEE87734-1AFF6984-4021F4B8"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile3x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1E8EAFD5-922E90C7-1D61F0FE-32826B0D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile3x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9CB5EEE1-18566E5F-19350180-34529A9C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level2\\tile3x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "97BF5EA3-6F607ECA-36780C74-1CCE2149"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile0x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ECAB2C6C-DE091904-67BF2A09-7D71D0BC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile0x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "11970C83-89E725CF-E786ADD4-E17CC24C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile0x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5F42AAAC-E626F846-83919808-125F9F42"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile0x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7A0CA16C-8DC4376C-A754B7E5-791776FE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile0x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A94075A6-7FBF765C-81CF4CC1-13126F6E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile0x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "665660EA-92A9E3F1-0B7B64BA-9C95A0A2"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile0x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7C6BAD2A-9F78D89F-5BD31FEF-A5B40178"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile0x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "48BDD3D5-6B0FFFDD-4ED6DFE6-9F821ECD"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile1x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "534ED21A-97152707-244549A9-BFFBD4BF"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile1x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5B205D93-001A8230-9D7F9443-A4DE8181"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile1x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "03B92500-C4450434-CFD24D37-888D6174"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile1x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "33616A2C-5F31CC6B-29F7A8FD-573A57B9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile1x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8670491A-28C443C5-7532579B-CA4BE310"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile1x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "11B65DC7-6CBE7D43-0B6FA6A9-1D05D7B1"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile1x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E8D5E095-CA031A74-9DF69643-3A170C8C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile1x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B90C021D-C65DC0EB-5A021462-E33E2821"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile2x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DFA493D7-BD9F5505-C8A6D33C-045253CD"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile2x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E9AADA75-1C85587C-F1CDE1C9-21629235"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile2x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BD49529C-DD8A559B-E1BCA32D-3E61A75F"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile2x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E492DA9F-9D46DD6A-A24CD41E-8D23B37C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile2x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C3707FA0-16F94B61-607F78A9-60E47C30"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile2x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EA875C50-829DE8A8-F9A549D9-FDC209A6"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile2x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2E6E1B27-1A0842C0-80DBBB2D-053D3EE4"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile2x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "64A7139C-02426BC2-6D98FF45-1B9EA382"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile3x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C1745D9F-27BEF3D5-0B665EBF-B47AC0ED"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile3x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "91546B7E-0FE192E4-2F62912B-BC39A2E6"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile3x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "11770AFF-87CC428A-8EFC2239-C5069769"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile3x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6B6E6408-F9642E81-43760467-8847B9C0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile3x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5FC5A7E3-434DCDA1-BAC84F43-2A122230"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile3x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FB4C8932-F924DD49-EAFC6D2F-9A3D9950"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile3x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BD0620FF-F3FDD281-D44BE4CF-B96D0B99"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile3x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E5A53718-D8235542-FBF86767-8DD88A33"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile4x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7AE3F0E5-58D65541-2DB31093-ACE91A07"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile4x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B9AE6875-71CCE674-444CC0F5-167B59FB"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile4x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "32C24D07-F5736045-49B731DE-3E77F326"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile4x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "93EE2F10-747F8FE7-30FF93B5-DB2E8FAC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile4x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "362585DC-89EE70A8-831897B8-E5EC1CD7"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile4x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A7CDD3AD-2BA63AB4-AAE66BBC-3634F8EB"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile4x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9BF954FF-8F011724-40E3CDB3-45A8433E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile4x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5D758A58-470F0516-3C37541C-8E8CF46E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile5x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AE109D66-C836F951-4310E956-B171151B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile5x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9A0109FD-617F100B-C4147E58-6BF2C221"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile5x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3C5F11B3-C962357E-28BCC34D-47154E45"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile5x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FAD8746A-18AA5C45-16F418CA-897864E0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile5x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "550D3CE2-AA212917-512540F1-87539451"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile5x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1406FE2F-3D45B6DD-F4C67C8F-E93EAC69"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile5x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BD6DA57F-01433349-F59560A9-CCADCBE2"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile5x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "60EAA1B0-E9804481-D0E38ABB-7659C5FD"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile6x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C0AB2F20-A6021A93-5318F9F0-4CA416B0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile6x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E0BC7421-8025C8F4-2C624FEF-0DD5C48B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile6x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F5563CDD-80E7B535-E0E19376-4E1B2DE1"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile6x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "84F098B0-9A331352-5EA46862-0D39FA17"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile6x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C329D546-686CEA16-C1246A26-FEE82D6D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile6x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7C3C6C38-91886D18-B7DDFEA8-49B37A24"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile6x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C1FEE88D-E912B768-351F9890-89CC6B2E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile6x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FBD99872-CDF25B45-4F9ED741-978ABBA8"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile7x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "523C876F-AF919970-E904CB64-639060E9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile7x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "10809ADA-91FAFCC1-1BD71631-9F1EC45C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile7x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B960B9CC-9F245B29-32005586-AA88AF65"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile7x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AC302E48-55041DBB-3F04F31D-B99876AA"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile7x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AD72206E-B8FAB456-A4310D65-50AD4297"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile7x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BDAB28DA-4A38B58C-653E3AB6-34394F37"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile7x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8F9CFA1A-DC20B4F3-8CE6970D-BF87D727"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level3\\tile7x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "14F756CE-72F0FB29-8DBFBC80-A0F5714E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B9FE8830-91F5C8CC-3F92AC71-160EDCDB"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D8C9BDEE-75C92B43-D2B85534-F50BB905"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6C1BD169-92648432-74A85B6C-2D5164CC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "78AAA231-E7FCECBC-F4B2E7F7-16B73A0B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C9CDC333-01D1F3F5-A8114A73-49F518C6"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AFEF5F53-B5F70E60-338191AC-FD90150A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "50E700DA-C5353A8A-66F4B845-2D36D8AA"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "259245DC-0DB01374-56C92CB5-B7E39F23"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C61D5A1D-46764EEA-7D4230F4-4361FB24"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E472D810-28719FB3-7F794792-1FE6EEFC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "15052756-50B653BF-05C8B325-8EA8D9F9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "61D88276-FD89F719-568AA177-1EC929A1"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1EFA0CE9-9C8CE9AA-4B8B0A2B-7A8226FD"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "606C12DE-D02D1394-E03642B9-AEFB96A6"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FB92B2D9-D6DD1A8C-0953FC95-FCF761D7"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile0x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2DF65F2E-51842492-1C98C118-4CB8739D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8BA0AF24-953DA251-2FEDDF3A-31AD6FC1"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D7CCE133-4CFF073D-9B3C95A6-252E7BC2"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "83A045B9-2986DED0-8718CEFC-C28350CA"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2838AC6C-4C910222-E8A597AF-95F6CD95"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A393EAA8-953F916A-FAEC07A0-A5E91E90"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A75CBE32-591FDC80-55CEC4D5-FF8FB713"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B36BD13A-7BB4C065-EF688358-6FD62C98"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3AA00575-672511F4-4CFDCA29-F102EDF3"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4E250E79-A7B1DC47-EFFD3394-3D63102D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "640FC8D4-DB008A0C-E8F366E5-2C7E0038"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8BB2A0F6-3073C488-3F0FE8C2-8D099CBF"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "79C50F50-964EED67-51210A29-87A45381"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2B67FA83-A35BEF85-37B203B3-00A9EB4B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6E2BAC84-FB754658-C9470AA5-E78364C0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1A054CE8-265A6E4A-79FE1047-5BC3C984"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile10x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CCB44E2C-91F5C161-CD4DB42D-6A2D15EC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "38DB91DD-BE552045-A313279F-DDFEB3E5"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "97EDAE3E-8DE1B8CB-8C7179C3-E67D0CD1"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6855269F-8A6A23F0-2BDA928D-1BC32564"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3BFB733C-DCA5FF6F-1205A168-D21015D3"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3F17D8E1-1E245CC1-D92C3B81-E6144782"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2756FE99-94E20293-E03ADC29-58A3B4E1"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EC049ED4-B1E8DFF3-C5FF6B02-ABAB2713"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6705FF8B-E75B69D0-B7B5A77B-CEE9B275"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2D4397AD-34112ABF-50B06791-27A16836"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "01E69552-BA243E28-A19551A1-06AD7901"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A02C35BF-C6EBDEFE-88145254-904FCA51"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B83DF41E-6D59C48B-4E04E3F9-06DABA9E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "41E85D2F-BD75440C-7B650AE9-EE8D20E0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5034E6FC-4E774594-FF2D3350-AB13EBA8"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CC40BD1E-5DFACF85-ED853AF0-D4A9DDB3"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile11x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "55D1E73D-DCA9919F-83BB823A-197B4171"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4D6FDA77-875209F3-1CA22577-D9A4400F"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1FD41531-49D257ED-2DC1EE63-B7951E8C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4B10458B-0480D68F-E1E807B0-9C145A5C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "89965FD6-E16AD1A9-1E4BEDED-04183ED2"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "086B74E0-C74D4EF7-0F243561-37223772"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6BE0C5F6-E7C53BEB-36407A28-EF2AE162"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4161BCA5-ECB6C56D-2A7A0DA5-79CEA1AC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F9F1B7E8-1CA67C95-B10DDCEB-2FB092B2"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F46D2726-609A7179-B7C6073F-83E33CCF"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FC334427-223644D5-6B2C6A9B-D2F218D6"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "050807F8-9E122F9F-5F5D12CF-5332289A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7BD81ED6-1B7A7730-7E318C9F-B5BCD08C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C1A50553-CF09D93D-2738D67C-4FE06BE8"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DB9AA2A9-224D5163-7E4D9429-C4DF257F"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D618123B-E4F1D390-6631C331-17805436"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile12x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "104B9B76-BBC523C7-16FD7A2F-D3B5590B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8F74D9E5-1F50B1B1-D97940F1-2C64657E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2DE68EAA-B6C00F02-11F85D89-87437194"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6BD3A687-8A6BC74F-1844241A-2B42D126"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7A641B70-7FC8DF30-7F06B6ED-766AE665"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C223D1AC-D2FF854F-4A845B2D-3C986DA7"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CBBCE831-270F07EF-8DFA8176-543A0B8F"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4267E89B-64E55796-83906D51-8351B531"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2C839B79-493D1376-3041AE61-839F630D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D494CB9B-AE4C24EF-878436BE-9064D73B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "193070AF-657CF044-98436464-16969ABC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4FE81525-901359CB-260F1BAF-308AFB2C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "633F4201-5A161D07-A6A6009E-4D19E923"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F1E728FB-93D39932-4E04768F-643396E4"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F8B54231-AC552274-2D24329E-DF2AB2D9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D1A135BF-F4E3FCBD-B4C6AC56-7E49EB8A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile13x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ECF467FA-A090C2DC-A924627E-B0349955"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "003A9A05-F0B6ADB9-70124FFF-BC227A75"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B19FB0A2-AAE6F52E-F3429FBF-C001256D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AA067DB3-96C2AAFE-62896996-650E0BFC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E0E47941-7DCB51DB-C67D1D4F-80322D53"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F0730576-042D8219-7AC0A6C7-6A744D5A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E6D7A65A-20546C68-A43E8BC1-391FB5DD"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "783DEFED-B5F9F296-6F55C901-3D568CD9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "62CA72DB-C7DCFE1C-610A338E-9A2EE71D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "771324C7-86E565EC-7DD4E341-9EBFCFB9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BA3DE34D-D20F19CD-2AE6568A-9E15F830"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1A7E2B6A-8F52F497-BA115258-0F193C19"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3A041015-1C34F0E0-7F1DADD2-ED07D341"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CFD567B5-F3B1AA94-F3A32D72-2029CE13"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0B1C0A80-93FC1D35-C50EA397-A3D8846E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3A52B292-AC4A55F7-B260EB0F-AAA357DE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile14x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FC781F96-FAEADE3D-D6FE081E-2ADC56D0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3924F631-22BE6CD7-DD096865-E257F89A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "059D57A1-CFFE7A5D-239F80EF-29D3BD29"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F9C84529-ABCF6F16-EBCAF097-E7153807"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1A2E14DA-AF455F3B-93F7BDF2-B4D606AF"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D87EC46B-B153AE55-525281D7-32946AB1"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5D3CB51D-F6F5D43D-C9421046-E938DBF7"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "19E3A7CB-FC796EF2-8E232897-05A9D8C9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "141A7774-F0F03313-807E10E3-29B52BE5"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "68423A90-B29E36B2-455C0FAA-26E57DEA"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "48AE754A-AA0CCDB8-B49F9684-718EE221"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "06942365-8525B2FF-08F56696-24C7EA89"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "70D8E917-19BBA5E9-F3564E0A-7A797E72"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3B6344CE-45CD3E2D-2B566514-4E06FEAD"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3970C0F4-9BF05D73-6D5CD111-EC2B04A0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A8A15E90-0BDC07DC-FEB1B9D7-24F1AB69"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile15x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "826A83E6-D484C861-37178B3A-0EFB3242"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "82319976-75764158-00321921-E34471C5"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BC0FAFE2-0BB44034-AE3C3CEB-4F8788AE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B1E170A8-16E2454C-AFAD700F-85386A85"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6D327A5A-828EF75D-82748177-F08C1C75"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7F824287-DF0EF763-242EE5AE-5ECB5121"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "63EB4840-5100EDDB-636EB9F3-8307CF8A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "76F580C6-2A02CB6B-EE09E8AA-A7586CE3"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5CFF48D9-BAB756D7-7D1FAAE3-AFC7A1E5"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6C92D01B-1DC4B540-F6839565-5525F0F9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1DBAD1DC-B3587F12-2FE26D35-6CB6221F"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "58B2E7B7-594ABA9C-A9825ACB-7C9AF6DA"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D10C6447-9244788F-A2B8DFD8-75B9B753"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8EA59FF7-7BE72B97-1F717444-2949B624"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8BE35E1C-956D3B57-57794C88-5E03867D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "15E4DC35-9C0CA9C1-921CEA73-A60DE5F1"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile1x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6D03F5E7-9FD7B1B0-0C503987-6FBF4236"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E7C435FF-A6F30AAC-F62F239C-BD514541"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BA9454FE-17465E20-109E33D9-D8A3EF77"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "926818E3-347E9328-9686D48B-8AAC5BDE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E4541E84-0DD570E3-F0ED224E-2047A41C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FF1656B3-22A466A0-F75F2C45-5766F229"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7DB9C5B8-4D6FDBE4-F2813AB6-A9D379CA"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1F5971B1-1D75A9A9-D8A46DBA-FF68B582"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "19C1B7D1-A2005531-A4D4781D-43411BD8"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BC267A0C-01FBCA58-181405C1-F4B763CE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AAA3ABDA-3E6C3DD7-13329904-4C96A8DF"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "65CF0D79-E120458E-1F0F383C-7BCA3467"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6CDF77F3-65980984-3360489C-69F8A4E8"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "95E7C3FF-3A0C8065-B2BF725F-1BE7245D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DC5A7629-4DFADCCC-12B3B6C3-FBB09648"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DB96CAA8-FDAF631A-90980F3F-6C94ED22"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile2x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "616FB154-21E7E509-3EB4428E-B6D72767"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B70F4BD9-3FBC683C-DF243FA0-E79D6A0E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DC3127A4-9564C028-8FD5195A-4C38E031"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F5E7A07D-C355CD1C-0D67FF0D-54CE8881"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0A487A35-04948D54-ED46A186-314ECA04"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "62E7572F-79E4D9C5-346BA03B-BE4FA4DE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "09FFEAED-D298E26C-5F10DF34-88C89900"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E8C57898-41723514-A15DC545-3DFDD03D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "65DB3514-FC810CC2-30A4194D-7C181E6E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5A680DD0-BF4553F2-8EE16A65-3E19AC20"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8C460AA4-69BFFEB9-794DEDB3-83B64B2B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "46C5C716-1AEEF575-72AD439F-7CD1E92D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5490C1E0-AF0201A4-74DFBB53-FFB31616"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "115BE80C-04F625A4-D55EF336-87A25DBB"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E92337D8-F36D78B8-914D818D-835CF112"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9CB54DCE-19928531-B5EC6F7C-FEFA9777"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile3x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "11879354-9E88A564-66BB14CD-1BBC87A9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "817835FF-99CA853A-488C800C-56420811"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9F8AB515-0FEFD40D-8924F996-18E41D58"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "549C11FC-8A514893-7A67F6D8-6CA86184"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EC3797E3-65F8B7DF-222232DF-A46B4858"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1B40444D-8244069B-B48CD5A6-5CAAAEF0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "18C4399F-568E0D41-E28017EE-3CD768B0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AEE704FF-B30F541B-E10DE668-143A25E7"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5A156ACB-F51B33D4-B6AE0374-12E5526F"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DF0B4349-A86FCD7C-A11056AD-7666A64D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "576D1135-6BFB9796-11AC9E40-2DB5EA66"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DD4FF691-37AAC7F7-C94856D5-807C0ED6"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "60E55209-ADDB1670-F7912749-7E63A235"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D16A8F07-0624AF3D-EDD3C5F4-05EB02E8"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "439C76C6-47C87E2D-E3D2D4D3-29DA8840"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C97DD721-DA948F37-560571E1-70785F50"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile4x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4C65E2A0-446B017F-22DFFC51-A285B4F8"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "96E7CD86-566109C5-A93AEDD9-9A91D8E6"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "40054C82-C7396860-50B904DB-DD779519"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "46AE3364-424ABE07-11A46118-CF04CD8C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F67148F8-B26B6D83-AE4E55D7-51AD4B53"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AD053438-20FCBF3A-9106A15E-1179DEBE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FB2951D3-A97FE467-E3F01984-2863ED40"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0B51FCBF-60F36F70-1E1B8AFD-E3AB4729"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F01BD4BB-F1F4C14D-FCBEA2F9-90A3C7A4"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C6FDD7E3-66DBF206-00EB3EEA-6E7A6464"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2904169A-478983D3-EA3A5352-6BB4C128"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "921C4A00-82CA2DDB-DDCEB7C6-25417DC4"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "97CC6AA6-B57BC6B0-BFC06801-F58EDBF7"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A797B8BC-7E52E9AD-4D108A94-2F73D7EC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "522F25D7-D2066787-E83E54CA-F56D540C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "254F247E-1F46A2D6-CB8B0EF3-14F5860F"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile5x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F11F8471-1271307E-1C9B8A24-492F1440"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EA649BF8-7318D303-C61F0963-0C0610E0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "885279A6-4FF79D14-831715EA-2378F330"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3F893012-9EE59C33-FB446C8D-B8E0FB58"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "62726F31-BA23270A-9A67EF42-3B445433"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2763D394-5581F841-47994B78-D47666A1"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "11A3372A-71572E2F-AFCCE6E3-F0B0C711"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BBFB6E0B-AB703D91-9CD33EBD-0392002D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DA12D215-3B30D871-3881E182-320210FC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A58F8FF0-069CFB44-08EEAFBE-92A72AEC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0DFE73CE-E38CB839-66F71936-0A1C8D76"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0A03CD96-2DEF889A-F23A9526-A2A395F6"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F71A24F0-F21C2372-29FE69C9-8EE8A9FE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "136D3980-795C45FA-D4175DD8-CC58A5E0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C2AB7F0A-C398E779-E2859460-5E96232A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0BC39525-139CF406-1017F890-C36CF36C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile6x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F27A485E-0FD6CD24-5CD3866A-BE443C72"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B36FC0FD-B30083CF-87BB844A-285DEA19"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CB43EC09-A164CA0A-179FAEEF-7CB054D9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C55FFA32-FB6EF12C-E20924B8-8F6F740F"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "320F6F87-C950DA6D-F19AE24E-F493A0F2"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0EBB374A-C3C22171-A2D03079-CFB85CDE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8168DD90-DE9C2B19-F69F30C8-8EC9176F"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D645882B-D124C290-327397BC-5300A325"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "14DC5C5A-7B978C69-AFEBF102-CFE38F96"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "874995A1-21EA7F9A-FEA2B2ED-789FC759"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "11978950-58EDB73A-33BC16B4-96B6CA55"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6ACDD97C-F19C641B-99E06627-A740D696"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5F8C8BDD-EEA6B79B-EF69E9C9-D669387A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "97A39E71-38F34409-DD270D78-321BE591"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "785F019F-C9BA601D-64D284DB-A5525CA7"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4D7820BC-B2725B21-EDDECB62-E5551AF1"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile7x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "510CDE5E-CD92E321-02510257-9A007303"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FC995D04-1B11DC78-3F1A5B0D-55F87D60"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F8984487-D9F36584-1BEA691E-A31853D5"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F828F92C-2A4ADB0A-98966719-E9AE57AA"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "931D283A-2895C735-83BC2DD1-917122FC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0C2897F1-3C96E17B-81A3D632-2427FE17"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E06DCDE2-03E5F340-B8E2005C-D96E68C2"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6BEF4B64-D3DC1C4F-F475A467-7391B552"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E96B730F-05B54BCF-03B1178C-722B96C3"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E3EF6626-E10F82C3-24401EB7-FF61ED0A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "53EDA173-490E1F45-5B628170-72E081C7"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D43C6190-7E3433DC-11D73F89-E991CFF2"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1EAD9FCC-E52B99D6-FBA0FE3A-F78EADCF"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "11D14D9E-C5E2676C-45A04EE7-6D4DE8B3"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9FBF0AA3-7F01D1B8-94B08B6C-87716D82"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0F6A9769-B802A5A2-F6D99A13-DA6FA02A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile8x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A34FE826-196B8486-4B022278-90A60A5C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5B4FD706-EDC72DFB-0D761882-39F00AAB"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "83D26A9A-A9A27B55-30B41EBE-0336B55B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FFB0A144-61BBAADD-9D6A5230-A2785F78"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FC4B1553-E6220DB5-A7970B66-1936E753"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A8B71A95-6F6C1673-47582976-E0CF3AC7"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x13.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "51B9EE50-1801066D-336C5AFD-59D7C084"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x14.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4AD2FDB7-73A227F9-4E84ADC7-F8E444DA"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E3A5E6C7-48917F00-34805778-68888610"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3ACF8457-18AFCE5A-58B7114B-B6ABC626"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "838E9052-AE03BF96-050ADA25-0435A66C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4963ED13-65DC6CB0-26EBEB98-3EC7645E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A8518B71-A22DC443-042117E9-B1125AF3"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F341CDC1-3A88BE6D-62B3E8F0-8DBBFD56"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "42D22C2C-59E087DD-23EF65C7-544F3B7C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1798ED5D-46E2EA21-45F962CA-09939300"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\skellige\\level4\\tile9x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C6E9CC05-C3296117-BE9975CA-8DD7CDE5"
         },
         {
             "path": "gameplay\\gui_new\\minimaps\\skellige\\tile10x10.jpg",
