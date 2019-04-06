@@ -127,6 +127,13 @@
             "id": "4A8E047D-FAA6B06C-FFE2D062-9D9D22F9"
         },
         {
+            "path": "gameplay\\gui_new\\icons\\menubackground\\mappanel6.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "066E4D86-0CE4C0EE-FD3FAB2C-6DE05E11"
+        },
+        {
             "path": "gameplay\\gui_new\\icons\\menubackground\\vhud_background_common1.png",
             "level": 0,
             "seed": 1,
@@ -3849,6 +3856,4920 @@
             "seed": 1,
             "consumed": 1,
             "id": "C6E9CC05-C3296117-BE9975CA-8DD7CDE5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "037E6F18-44D4CBD2-F4B86B70-79515E45"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DE2DA33F-FC0DDFD0-33C85337-AE376A51"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0D7D5197-1233E843-8760B879-11242978"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FE028BCE-E0C559E7-C966C577-D5F0A201"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A275ED07-7F0AF5C2-19F83EF7-0905AE15"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DF2AEF35-5C3F0086-BC0FFF5F-51252A94"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BF58481A-6C818684-82046A06-80A4F8F6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "13077000-0C689BA4-1A2D3B65-11D8A409"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "10CB71A7-751E7808-8CF4AC82-D28F0086"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "05EF483D-391F3F65-F9F7B34F-F2723BB1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A4622C1D-DE3818ED-578A9E98-07AA6093"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E51AE3F9-F730CED3-F3D878C7-754DAC21"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7211C91A-F14A3E9C-8B17C328-A26D53DA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CE77FE28-791D31F9-CD12BA07-CF4E4341"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EE2F48AC-C16E35D4-A6AC296C-36BC68F9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8122BCDC-0CEA2C89-C92564D1-83839ED9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BBACE768-72D01D17-59A040E6-D4F79007"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "792EC977-5B27A144-BC5A6DD0-9CB14347"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "95EC8548-844217AC-84239A02-67AB4DF5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F3184C9D-4D714C37-07168732-DA0A07F8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "66E48D0C-D845F15F-C2F9E35A-84A5CD13"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0E7F3D2D-4B1C6080-179944FB-C38161FB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "08A65D67-3AA7F8B9-480A541A-381380CD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D2A7008D-C4C69532-E173F949-326CCEF0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "206B8AFE-EC3DF225-8FAE6965-1BFEC91C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7AB90778-29327981-A3C0514E-30A9C8E1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile18x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0A82E34D-2A589D0A-6B2A4F81-0CB0F7EA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "43D34532-218E84F9-6FD5F0B8-331C0663"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "90C044CB-80B4A7E2-95C734EA-A3BD91DF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "978735F7-820FA026-1DF06B65-17124527"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2C90CAA0-E0017CCA-64F1B647-4D89B5C5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1E0A3D35-76EFE519-91F90B18-154AC712"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F8D8EA97-6EA09F76-0F9BCCEA-933EB879"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3FBED029-EC9C036E-B13DCC5F-A7AE0F42"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B9752E7E-EDBF5D7D-4D941924-E0EAD5F6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7D6E88E2-73FCD16B-FD1E6DA3-1ED87B3C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "72A93F2A-53F36294-96929E3B-A9B29133"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E61601B6-A2579A6E-5087DAAB-D76D8DA5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "13878646-89C7AF7B-CCFAE5A2-813609C0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E3213F79-8C36C35A-327ADE26-60623193"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "091EB88D-5E874EFA-C59FF510-BDB530ED"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CA0831AC-A2D2AC50-E6F028B2-5181C181"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "92E71B9D-331899EF-81A5A845-DAC31108"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "356CA45A-20A0EFCF-16FFF69A-B579768C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F1996CEF-BB081EA5-991D3685-E65969EA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B89D3647-5743636A-86DA7B66-6CEC0DCB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "06D7358D-3038BD79-5206E16F-E1E01302"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AAA37D6B-368EBCBF-2226036D-B2763F61"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "27672B18-8135AFD1-8651C92A-506CA920"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A9E7390D-32489EF0-BDF14C62-B0AFF36F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3D7930C9-70A58C50-B21A2635-7579D6BD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1E07F5E4-83FAE14E-9CD09AEE-CF2A9AA7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1F9C016C-0D119416-5C06D6A5-38BF2A8F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile19x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AF19A0AC-80C0B1C7-1CCEC41D-15129421"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "02019B0A-EE60B3A5-D6B046F3-ECB951BA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "66B911ED-3CC60C09-2CB54039-9D964AFD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5EFE1C47-077D915F-3B7734B1-13872329"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6E563377-F463D1D4-A59BE175-F9292F08"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F7D0EE49-22733FF1-8C0A1984-1A006B81"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ED6C238D-27D92E93-3BC4B208-26CB8DB9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FD2810E1-895783B9-3FE21A64-1188CAE4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F3DE024E-B5460298-C7B2B504-1E8F403A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5404DE1C-044D679A-4318681D-4ACD01C0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1F20317C-9C8F98EC-2B10CF1E-B5B742DE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D4D4C62E-13A23DB6-68B33109-97DF193F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FC4EF47E-7AEAD86B-96961BF3-F0C59844"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F1D58E7B-A85AA4FD-E3106AE2-F4346D37"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "809D7F51-E83C78FE-AF33C1B7-0A421843"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A4D2B40D-F714C17C-40A739A0-B61A2697"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "73F75C31-70D45EEA-B4FDDB35-18F241A9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0B66BE51-798B9D81-0D9BB3B5-C084D78A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "04CB4189-78B5353E-A888C18B-63FE08FD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C801433A-1EAA2F97-A8385590-8ED20337"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D600CD30-5B3A58C4-7272A9DD-63DBEC2A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "21C51845-089C50E2-0A308ADF-444823F5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "345BA620-EC273721-AF31AD7C-A75AE7C6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "120BFB00-329491B0-67EBB0C4-A965149D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F1F81DE5-6F69ECCE-677CC179-45EEA147"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8B4BE4BA-37F297B6-4DD4F0DA-F03F1A94"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D49727CC-F91BFDBD-B501B29F-5024D113"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile20x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B33663C7-30169628-F68302EE-8176B3D4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BCE9AD12-12482839-4117A853-F51A6557"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A99D2A14-AC0AFAFB-F1C917E2-17212F57"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5A182DAD-6ABADBF5-AA227B77-5D6BB620"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "97FDBD20-8C0A9435-B98431E3-7B68FFC9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C99CE388-94FD6D2E-7C57CAFC-5D745A17"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1B0B4BB7-EF5BE7C8-00851534-3E2C7F43"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "84450423-3A889D79-130EC7AB-24E7D303"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2E139AEC-9E3CFAC0-D3AD0DBC-07485278"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B0D4C927-48F2304A-476D33AE-5F4C29C0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4035DE07-6A40A1BD-994474D0-468648FE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C79ABFA3-C11DF0C3-B448FC3D-03F512C4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "762153FD-ACC72BD4-7A2CC8B6-50CDD909"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E1044A07-AC6B5981-81D07653-90B334DF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7D805A15-2CB7DA17-AB2B4135-8DCB547F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5F593858-9ECC223E-472176F5-15B50C91"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F0286887-27B0092C-E359A144-1BE14CED"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ADF613BC-DD144EFD-0DC45A0E-8542A527"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "22117E35-B1236A53-1BEFC51F-7190F1A5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "64BC5A5C-AA361963-BACCBA45-76EC3335"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EC4282C0-B046C29F-1602D044-0F36EBFE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3EC5EA1A-8340F063-F919C5D8-CA475454"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8BE8E9F3-D0581C5E-8576B61E-3809F5AF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "43F989A7-B6E7B798-4912D25C-752EC63D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "916E68ED-E902F1E0-193745C4-47453BDE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8BA862D9-03DCC42A-2A7BA722-A27D0F0A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C45BB8CB-ADC758F7-53344267-997E5891"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile21x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B31AFAAD-9D68C11E-4376E309-3840C184"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4C77900C-0C4BCA93-E3E1827A-DE433D09"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C933BCBD-4C34565C-EB409DA0-64BCC3A2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9467BE70-0385F573-3612D7F1-A5D7BBEB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CDE20762-3B5B71B6-9580D780-E87DD4E3"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "71C7BFE3-4F7975C2-1EB9F394-1BE8C692"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6F55AABE-5E499185-95CF3B56-7342F2FE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5AE9B354-3BA65486-DB862E87-FA077F1F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C665A188-71E38272-A4226F29-7B6B8675"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BA09133C-83500E20-AB45C0E6-C5150A84"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "61058F09-06C52FFE-213A0AAB-5EBFF339"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8D3AE56D-DF9DC4A6-5FBFB354-C400A330"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "173653ED-9B2C503D-B2549490-1B0C4613"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "20E885E7-87BBEBE6-39BCBA44-B6381E3C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0AA4CDBA-387623A7-32D35D52-11258C54"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9B3A9282-638E13BB-78F92D04-9C82CC4F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B017EBE7-44275C56-1634360E-4E44F061"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "43EA4F08-CC77F2E2-CB2A2837-1192544A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F5B22EDF-D4193DD9-B9ABBF6A-97AB787E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "726110F2-A216E0F6-95A51B87-ABB19913"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E273C42A-BB466E3C-4B8EBDA7-F2C6B94B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AE254142-C7E805B1-20556183-29FA7191"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B23856A4-72BC6BAD-D2B15755-9F58BCD1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7564A47F-4AD34CFB-122FF4EE-BF24E4CB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CDAFE63E-CA8627E2-824B9F92-B1A01E89"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B0E2D4E3-862FFCC2-CE240FAF-082D2800"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AB315B4E-0B53A6A3-04006B42-42345579"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile22x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "88AFC160-51A58CCB-6699759E-A30BAFEF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5A39CE7A-CA508906-EC7EE1EA-81773DE7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "23BF7AD3-DC8CCFB3-5848C37C-8F3E78E5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "174914D9-E6178684-3D61AC9D-CE3F9911"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "47C25F84-530F338A-88413BCF-1BEB4541"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0FC924FF-F305AC03-71C3C7E8-51484C7E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "91A777BD-00CFA0E5-667AF159-D4C355FB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "38523DEB-35CDFC9A-78FCE114-ECD167CA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B0E7F5AA-0D994E8D-ED01E887-0B6DFAA0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CB9C03C3-0C7955A8-48DB0615-57898192"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7DA4F9DB-E93D87A4-244FC849-34271886"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8AEECEF5-E335EAE4-DBAB2FB0-A9BA84AE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A78D6BE4-C5A52671-6CF6CEBE-7657BC16"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3FBB6C2D-DF382CD8-59651E35-6F59F118"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "772162FE-20136076-F7057964-89AB73CC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D778AF1E-0C772DFA-D70660CB-83A8C3E9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "884C002F-05BC95E5-A50B236B-1649B803"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D8BDCA78-02E61D0C-5226DEFC-20DB90D5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4F5262DE-A1A04B14-48B70F90-B9B56C6D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F2780B56-36A27042-EFBD41F9-B37F7CEC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A00027FE-C671A7B9-1BF1B4C4-27FBC67F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D709DEDC-FE7EA45D-1711762B-AE6752A5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7D748346-F6981ED3-0C70A577-13821FA5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7BF06A4B-C522174A-20096FFD-F4B627DE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "59AA8F26-90C6F228-606E84AC-541F92CC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CE70C683-F54E45F2-D47CA6BC-AD897BB7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "40CA442B-2336CA13-836A6397-0CB49C85"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile23x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "977735F6-A51571A1-12789A21-FA315E5A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2BE5C4F5-2FED13BB-8C7F2ED9-591FF173"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "426CBC5D-6391F91D-E172DD93-58E43E83"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5D97AC12-371F5143-7FB18C6F-99D329A9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "40757A72-9708B8CC-8B923765-767C7BEA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "672F28D1-5C9E3829-3AD9101F-434ABB8A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "70ED4FC1-1CE9B5DD-3110E584-4906E75F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EE3B5E5C-5DE73BC3-4441EEE0-5F868122"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "96CE6446-B28B2F34-B9F518AA-5B2E3769"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CB3A84F1-50824614-459A8F42-7A5B15F0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A2701205-8F870436-E1299EF9-0FFA6542"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "700C3B63-CCAE3009-6715CF5E-D70E05F7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7B8525A9-AE0171BE-7033A32B-4626CCC4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BDEDF626-5A230FBF-D6DA36EB-749F087D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2AE89FCF-BEF660ED-BD59009A-0DCA592D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "24808834-357EBC87-D89660A3-FDBBA0D6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "632BB09B-400033D7-70FCDB51-94C58369"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "85C0FDDC-661B6164-E9DE6D32-5487CB9B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "84C36FEF-B3752D6F-30D82592-BA2F42CE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DDF59C77-61DA7C37-04CFAB7D-8067909D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C01FA416-B6E97318-6225CEB4-0F799E59"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A302DF34-8CB06228-76D84C6E-E799EEA6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D43A1CB4-FBEF0F6B-6EFE089E-4210674E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "704EDA06-FFA0185C-4EA50E17-7600301E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B2AD3C61-B75FE48A-6CE4894E-186922FC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "08A339E6-C232BC28-8B293D93-E7783EDB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9B35D879-6A219851-2EDD03D0-EED528D2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile24x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "305F5093-EFBE362C-EDA4C46E-5CBB879F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A890B52C-F66C562C-C89015C3-38F15127"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B1F04BF8-53E4E961-8D9AD8C4-FF0BC0D5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1573027C-16C82B14-B32AAED5-853573E9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "91791266-65F42104-4A4B775D-5F4533CE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9C1952B2-AA517167-5D0DD1D0-C7D2752A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3FA894CD-38883387-5CC1F499-E9EDDFBE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3A9C89C3-49B66D9C-32CA865D-9647EAD0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8C6D671F-10750849-9D04FD61-94B34A93"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "16A1650E-32808B94-62B3F516-9A0FA043"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "03F8C1E6-F70989E8-9CD4146F-62A273F5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A7AD4AEE-1E96DD4F-22B3748D-2CF0EF9D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DFBF2CFA-C7D0C220-64D4469D-D678181C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "95D548CF-E91F2EB3-588F55E7-158F0663"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0FC8239A-B38F585A-A9781B40-70EA72AA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "717494B6-7B3F8BA0-36F18FFF-B0F8A7AC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "38FEC263-63D61B5B-F2EC9240-33A23869"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "04A561C4-9D150E90-82D0AD90-1A245A0A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E5E17700-D6F6A20C-EFFE859C-DD8EFD1A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B596C9E4-3F6B8D44-D496CF10-D68D3F3D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8454D0F4-A15E2C6E-AAEFBE85-45C8DF81"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "152C43BC-05698934-78A1107B-715B0E29"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E92F282C-995780FB-AEEB4D74-DB9E8FE8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BB255B4F-9CC6BD1E-C474F061-F0955CD5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "882AE076-D59BC89D-776C164D-6F945BF6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E33F9075-47C44361-0380A61E-495234E8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "101285A5-1AC02440-D6DE1CAA-C3DCDF55"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile25x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0A02E36F-82EC3A43-AB9AD864-AB3DC873"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "630987EF-5B4FCF0E-A2B328F6-E8CD7004"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "39C25624-DC9881A2-5A02FEFB-3DE2A6DB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E584F061-8FB4FF30-9ECA6F9D-AD6728FE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A95DEFBF-7AE5E915-1D62FB98-7064F40B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6154BA92-450448C4-544E363F-98AEBC53"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5791AFC9-310A2D12-66FE46AB-E50FD95C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2969D8BC-6C52ABEF-8F35E3AF-0BE5D492"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BC674A33-B20A2065-96471F8B-CF6E2AE2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "66FABC51-7E0BC82E-E43FDB11-5FBACFB8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2D597889-CE6D1BAF-C485B951-E59EA514"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0AAE58A4-D3A4D080-FA5818B7-7702E923"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "92594A59-78F8048B-F6E7AFBD-C29646D5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "257A1EA2-2A549158-5D52A2E6-418538B3"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A4432B06-D1F282BE-E4A3558C-5DFD7DC0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5807F45E-6598B608-14F2954B-95DB4D85"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FA153D6D-2448A64E-FC7D9314-0E9F93E1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "87F65C2F-13B0E335-0E35C109-63D3018D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3998846E-0211CEF0-5A22F18A-9FA68175"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1F254113-5F608C11-D5986C58-93D49AD9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4B91E401-32C15AB2-CB3AC6CB-860148B6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1131B660-F526C1D0-D950B5C5-54DC48CD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FB62DA38-325651CE-D7F7EE87-83E47C5D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6FD8C5D7-7FEA6D12-E0A05C72-29B5E182"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1658A3F3-BAB50942-FCD71FD4-D1B02726"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "34078E4F-BB68397E-3BDBFAB8-C0BF125E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "362B7A5E-47DC54C1-04016089-64FE6786"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile26x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2E0544A0-96A517D1-309EAC62-3DEF0F20"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9101AB39-C69732C4-2C39BFF6-FE93B932"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F5B2BA4B-3BE03135-2AF02234-3C31C6E4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0BBA2520-B522764B-70DD2EA2-7876F98E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6973366C-B4E52039-7C740C6D-F65EA0B6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A004196E-344A96EC-F291B429-335AEC7B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6BBEB5F8-237BEC91-54318804-B5107784"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "87AC2F50-0F690A4F-B33A0D52-6AE80CB4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "673D6406-DF060321-6D14B9B0-F26548C8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5C6D7F21-AB4FC9D1-E76B66C5-F770D52A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "08FCDAA5-01AB924A-C304B59D-8E8DE7EC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0D0A0D92-B1C295C1-CED5EFBA-74452719"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "89E2755C-C6AF4235-228D5744-9AB6164F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0C38F2A0-AE7CE42B-EE120C43-F611AC28"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "94737E40-B3D9A832-7F55A920-1B563531"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "44F6FCC8-5D1B5FB3-DC881389-B8797033"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "16AD8A98-34CAA833-ED38B28C-479C2053"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "03C0ADA9-AA24A7FB-B92FDB49-BC00BDA3"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FE24A49A-824F1044-A13B0F16-B140FAAA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "757EF73C-3E136070-504E1F79-B11AD396"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0695370E-232B0893-100FF6CD-EDD698DA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DD77F65E-7668A990-419D2A7D-1B2DDF72"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C84AE68A-C05D362A-85719FDE-97DD840B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2A2E6C8E-A25D10EC-31D4F833-8000A621"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D1079F93-CBEFC45E-67E2F972-CC0B2261"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D4C0FFDE-D4CD17D4-0AA066DC-EE3F02BD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "227EDA6D-C4A79EF1-1A0F29A7-5D65017D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile27x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A4BB770C-1451DD23-C679299B-FAFC6E2F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "28B79428-E9F8B176-BC3D2083-4E8EEBFE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "37961A38-E542034B-68B130C0-C801A789"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2FA4C96E-52B6A68C-A1B416DD-2DBDE9D2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "02CFAA1C-68116C95-5887124F-CF1D08FD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FB4773D0-9FC2165F-ACB8DB82-09275523"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "67998481-78E55449-EE7EE156-2A81CAF8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A5795BD0-112212B9-F5275989-F204065E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CB339BE2-C2ABAEA5-9EDA0787-CCDB0164"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A75C22B9-82AE1A38-CC622605-D4620B86"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "067501A8-2FF3B632-0586EF64-E791C38D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "19175434-7BF2D36F-9A9E27E4-8D2109D9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EF2EB6FA-6D424850-86E6FBC8-5BD449B1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "127A83EA-11A0F9D5-6FC2622F-8F3EEB9D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A6997089-EEFA8E88-8128306F-1566BEF8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BAF0CD8A-F9C3EF63-2E604574-FFAD46E0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "36E8869A-01629457-94BE2D4B-776396BC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B9446628-CB8AB87F-4942F580-1026A7E5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CF72CF24-D22327A8-5D302FB7-51960C17"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B07E32CE-BCB1BC03-D70D20CA-E1336171"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C9E3D16A-8AE43471-A3F38652-396F76C2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0462B419-A94FC12D-F1FFD6D5-C5241306"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "80832DA7-F4EA39FA-BB4C4532-D53BDEED"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EDAD6ED4-8F972984-4E794E40-1FD49C2E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CE44FABF-DC4120F3-B34FEE81-ADD759D7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BED36C24-EA1C352D-9ED7A38A-036DAE65"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "54F45EA7-679D51F5-8BD47F27-0204F5A5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile28x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B2B2FFDE-9701E662-B96383D8-3CAD4CF1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7EF57BA0-3C8350EA-FB6E93B3-6A5C33F4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "236E10CA-B81F6CA3-35B39AF2-88633CD7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5F3763E0-4530E51A-11CB839A-414E87FC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7D104D68-9C7A8D9D-8A1C8F61-373A22A5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D37EAC98-8CDF3A35-DBF87800-9D09A134"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F6A90F75-DEBBDED0-4A7697D7-0E61B05B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5580EC53-9936A9E6-556599A8-211DFB9C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B23F5878-5A270A3B-1C082AC7-2F500FF5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0767AC86-43C7518D-DC837E28-20BFBE01"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2577BA81-EAF3C0A9-E947C183-C0BFC862"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1E1B36FC-34701337-5FBD434B-4EBC1419"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F7104576-DF3256BB-9012EA92-05EBB47A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6B8911A4-F203A9A7-769F3C1F-B761A04D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C4F6FA64-A92B5198-CCC3ED17-A8F7AEA6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BAAC6C22-48840B09-E8E7C925-07BA84E6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "89F1F6EE-3DE4340E-2BFE97E5-2FE031ED"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4C7250E5-308FC393-89D1F08B-76B88C80"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B330C31C-6C11A6DB-8B756635-C036AC45"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0890A57D-6D73A5EC-C8D407E5-F01E5575"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DDF5E3A8-0640F273-6D69DE2F-B6EAC10F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2419190D-CB927658-1311C59C-C57D697A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A526C6EA-836266A3-BCBB05A2-861378D1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D5A2A8EB-5CFB9B48-A0BDACC8-505A0E25"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B23A70D4-1EE62DA9-B65793E3-B7E64E0C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E3DC5112-C6F3D870-6EEA92DD-C4C4430C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E85988CE-FACAFA4A-14836420-1BB72AA4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile29x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "10E7958C-0543B8F5-1DD5B9C2-5D3855A2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DD7FA534-1F1488A3-980841A3-CC40D562"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "34FACD59-836BBC8A-683ED7A4-A439A7E5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D0BF69FD-9E161B3A-D1F782BD-E6CC484C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8E6A60DB-9E058044-97B0F774-E64FB565"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9A7F50B3-BA0DDA49-87EAFE75-3296D6B1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8CB0C2A6-69866949-166123A9-FDC0EA24"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DC23785B-B38F5BF3-6F4354C9-0473579A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ECAAB219-096B0CBB-7053E3EB-FF11195A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0B69BF9D-AA099343-53F2FF21-D7B563BD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "041F61FD-2CF5D22A-5EF3FCF3-4EB14421"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9453D8B0-F30BEC07-20128BC0-5D1D955F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "101A1687-429D08D1-74657642-7AD3D3F9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F4207BFE-ACDDFC69-3D6A5552-F9B2EBDD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1BB8EEE3-7894C044-71426FF6-67AA37DC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "14FBCB77-57887CBF-5F8E57C1-D91C6E4B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C4310AB2-318DD2BD-F3C8FA23-ECA86B65"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F9CC0662-50908F3E-99AC881D-429E2C07"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "99553E46-7399019C-B6213620-785629D6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FF047BBF-9115009F-11D8E739-6AA684CA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C967C3D0-D62A597E-871067EE-C117D67F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A1575CA2-A419ACD1-4BD714B1-D7AA1C85"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "84808FDA-F94ADD84-95572DDD-38AC9919"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ABDF41E8-66F2E4FB-FD828F10-C5E6BCB9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5150AEE4-15794C62-325ED895-73C93E0F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8519EF49-3365C104-92740BAC-BB310CDF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C285BCA5-B251626A-D92111C1-084E2B2D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile30x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2BF11776-2E34DDEB-CF1B8A94-96324FCA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "225074C1-3BC33E67-A4036558-5CF08ED2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2AA3A37F-7C8EEE7F-7F5CF2D6-1B521B38"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "577E89D3-C00AE75A-524A2B84-9B2EA49C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5B5CCF34-E4906200-51804A89-EFB54C46"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BF6DE183-CBE22067-ED4B4424-268B1BEA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6A9C6DB4-6C21CA98-469AC0B6-BEB2F19B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AD4A15F2-34CC2D5E-83AA258A-0C341CFD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "76FA1171-7A21F291-201D14B4-C145D8AA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "903F9C8B-FF2FD36A-A8E3B796-FDF56F54"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3F05ED07-3894CC38-7E022808-D9483264"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DABB42E9-D0FB5703-A8B5DF64-42DCB0A0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3C2B2AE9-3747B082-82D5653A-C09DF5C7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4454B824-450E5CCF-9CBCAD8C-05FEB839"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8E05947C-D7646EEE-90F417D2-CC2620E7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4D6A647C-6D1FAEBE-5F530D48-E96CF47A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C0E97C77-38B5D25C-B2F33233-5AA2116B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4D578E55-9596C43F-A03A6923-4B0D5976"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2EC8ACAD-F3FA9CB3-AB7A2C2B-8A92A2F8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E9078D86-C944CF52-1598408B-F6406339"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "62834389-12F07296-92FE4DFF-17BCA97F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ECAAD5EB-899DB8FA-66EB3546-E1E9DD91"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D3404BD8-0569B234-A0E49971-F3BBA79F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FD4EE98E-2DE4C99E-C847E0D6-E2442466"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B7255DD3-AEC91741-DB718A94-DE081A17"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "73F795F5-516066CD-EB537402-DCBB3F42"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "06090434-56E51523-F8FD5749-EAED7F1B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile31x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6F3263A3-E4EA1464-6FAA63FB-0010AA16"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BB2D78C3-ADBCA266-86BE2890-0BD992F0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D3254359-82714ED1-5066E8FE-D8D0E747"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D0451EED-10AAD432-81F7A467-2722264B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "005A1B71-524B1CA8-36F2A7DB-5558C277"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2884A5D5-98AA7115-85C25EE9-99408455"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CFB6C810-290E8A7C-38C7AE26-B1362301"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5C7706DD-6C2139D4-09C21CCC-767FC6A2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E23163BF-3A118B47-74C22DEB-FE8E198F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "17FBEE96-9DA18481-8C2DD819-68EC3605"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2D21CD38-F7B13BF0-C0D07FFE-3BEB5371"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8E382D20-9AC4725A-25D6391D-EC28B6D8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DBA4258A-E4F75DCD-7CAD846E-BDD99EB9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "522FD986-0C50702D-A1064643-098C9D73"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E0E5E8B9-7C680CA2-76268ACC-6273C629"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "403AAEA7-DC9FDB06-FEDC813D-F819EA01"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EC088571-FC6DACE5-B60F596F-1E6F7D21"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "108EAE39-B218C70A-AC7A2E85-E2E3ACBE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AD249CCD-4CB1AA95-34092C0E-72BE6D8F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "70003849-79969E44-0DA8272E-ABB61E55"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B6864E3B-D47559AA-B36F9CD4-E2C065A5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E5469602-22974355-9AA49F46-9B46FE1F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F07C2EBF-9B713236-42083D7F-62C47165"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "80BF3E73-7C9E2A1F-F5C00E26-CE55FDC6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "21F64C16-762BD673-FD1C53EE-D5E847AE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5F0B999D-0083F174-8F10FFD6-17E357AD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1B429EA1-C01B6F5F-A7B87A12-96CADB5D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile32x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AD8570DD-D9939047-3C7EE629-6893455C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "455B2A58-8238CCF4-8DF79AEA-11857457"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FC27672D-0FC27D47-517675B9-14D8B27C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1FF24F4B-54116BAE-1E36AD8A-476648E3"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F2D6907E-A92DB16E-FBAF31AC-C73A6128"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AEADE17D-3D8A82CC-1E533F8E-07AA10C6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D9484DD7-C44A3C55-9CB2F93E-5FB884E4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6AC3F1D5-D9A3A0BA-886EED2B-BDD314AE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "671B7655-4CB7026E-6DCF1A43-56D8AD20"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4301E388-E0648D88-65092F52-D0EE1280"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6E655C08-36FF34F7-27603BB5-D9B2F0F3"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "233C3D7F-E4AE8660-B649D554-1ADA24C4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FA5E923D-C0586CA8-A52A7A20-05C71452"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D7EECAA7-05C24451-6CAA2D64-EE7DF122"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1957F389-7639B7D7-2148C742-23B14E66"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B9513F0F-451AAB59-AAE2B116-F03873B5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8FC82068-B1004628-6B7FA14B-BFF23811"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CDC1BDC8-7CE9938D-686CAF64-EC187112"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EA7498FF-88214067-59A21A15-C4766A58"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8FE2B851-3F1126C7-072ECB28-09E106D7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B2D6CEC7-F118E814-323D3B71-CA096CC8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "998210F1-93F79141-0F9C7991-8DFC602D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F018F8A3-9229B551-94FD23AD-6C2F9711"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "33D7053D-6F1D2DD1-E62E1BAC-F05F9305"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6F7B65D5-2347E6BF-C6276BBB-6BCCD9BF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "696A0A44-718E9B3E-7EB509A3-628A9AB8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4F7536A9-3852FB9E-B2BE9164-700A95F5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile33x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3DD7F1A0-730A21E3-49531D3A-3E40C012"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "16238EA6-43E3B434-12AE3181-386EB25A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F188BEF4-ABAB21D2-7729DCDD-F5EB2CF1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7A770811-7D7E6C6F-3060FC65-1B22E69A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "727A85CE-9B6AE8FF-B806FE53-58CB8992"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4CDAE48B-2E8A6CCF-6EAEFAF3-E3B5B643"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "903B4403-1CC15AC2-F7A0C88D-7FB71A2F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "660D2110-4592CA0B-27C5F9AB-286AFB04"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4BE46AA2-B6134F61-824132DB-B4E7FFD8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5ACC2BCE-9DA7F3F1-027183BA-8315327A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6811DEBD-10A60158-78464DE9-03D2EC55"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "07FD52F9-DB20501B-DF7FA08E-5F544949"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "596A0941-3D6C3022-B318789F-D11C81F7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8F306674-1D8B4E8D-2A26D453-52F045CF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D41D0E67-291A23D2-31762685-B707AA43"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "417C1747-F1E79817-0871DA74-A7406D53"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3463A8C7-56646EF0-1B73D435-1D4B1ABD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ACFFF9CE-30DE4EE0-40A0D12E-BF7C00B4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D7A7B3F6-365E128C-03B0FE1B-1CFC347A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3D8B5E94-2FFAC8C2-84A50B8A-28CFB38D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EB4FC870-E16DFE0D-3980BBB9-9930F004"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "910A3678-106AE8CB-593F023F-059B8CEC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A4625A64-DCBF121D-BBFF9045-52776CE5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "60BD2E3A-3505B636-67EBA4E3-EC866D6F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D53E59E2-18395367-2CF65E20-9DEB6F7E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2673C3E3-F0BD90F8-EF70AC6D-DF8B6B2D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A0F56916-D69013B9-B669F9EB-41F6733D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile34x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DCFE1BF1-9167B19C-CB299FF7-4EBD986C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2D1B2A95-237FD8CB-B70796D3-CF1DBD2E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7E920713-F0E4DDB1-B280FFCF-F2CCF265"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "27B37AC7-1EB316F3-806448B8-1DB7B1BA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "673B3E11-9BF90581-55D41467-34E31E21"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "13867449-ADD04A91-94916A99-E0352DBE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CD45207E-8BC5EEB5-D585FF72-1E1FAA40"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D78CEC71-423069A6-F4264A06-69B5F6C5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9F479EBB-4695C135-C40B4AD1-AB738EE5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "073F2327-A381C8BE-879C98F4-F39E915B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F246DB3E-4E0AD66D-0E28857E-8DDE0B52"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "04317705-7C9D38A5-B3A6FF70-9B522D12"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "85B697B7-DC4A7AFB-DC6C88A0-F3FAFFD2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8074DEEA-4A7ACF68-3DC228FC-901ED045"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3C4AF20E-1D45DF9C-0F88C441-906895A3"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A645E838-6964C196-0BC3E480-A774E2C4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ACAC1A1F-74B1681B-0D97C812-6EDED62F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F6D25FA0-D9694C07-1286E7EC-CCF19D4D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C6523A46-C6AA0C43-D1EBC6AD-4AB58E77"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FCB11105-08A2268C-F1DE530B-C73E5622"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DAE8808B-B922A346-35C824B9-399E9C87"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FC2B3883-BAB2E830-F045CE7D-22EF4908"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1ED29525-46354E1D-8AEB7C01-CA9C3526"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8E994F59-E5B0266E-B904F466-AB64954B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "31C78A02-ADCC2A77-DDCF74F9-82A99990"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "14697373-AE832149-A139C1B7-C4258F34"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FB7CA1D8-97C15AA3-45F8FE8D-F8562168"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile35x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BF3B99F0-EDDB8D2C-9CC97DBD-6B6C0D54"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "16230EA2-CCFA536E-C9475402-2FD8DE14"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "63632D74-3BCD21BF-D410B08D-76B2F8E4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7DC5184B-82B76459-EB1D9BB9-9FEBB3E8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5BC900FB-9C62BF53-7DB4E03D-22B75774"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "15778F71-C8674932-5E0340A5-AA330370"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "443AC590-7B760FB3-0CDEEF77-2AE5E126"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9601E82F-2A3D7279-9B8D7486-07976E8F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "012662EA-A48A6705-8BD84894-6F4D4203"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F3AE1148-7B41CE03-B4D397A9-E83F3FE7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "62F7B8DC-B0ECEC11-C6A9B56D-602F67CC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "51FA4113-D8AFD4C2-A84BB98A-DDDF3849"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "721A98F8-A9692383-6918FA08-37D28287"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F92F6860-F3B1F3B8-787020B8-BEF1CB12"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "33913EAE-B213FBFB-2EFF1DC1-ECF19D70"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C07C8A58-6000B45B-B7BF8EAB-CDD93C78"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "43A1FE32-70E7F61D-10DF1CF3-AF924A8D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "55EB2119-D4695F64-092AAB82-C9E6BB80"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6FC551A3-98BF51D1-87A1043A-39EEE33C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E4C0C278-CDFE74BE-F5C687F6-6D4CF160"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C56E6712-3931620D-15CDEB1C-DA32D027"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7247B813-71567D84-B3914FC7-83593D4F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "28015E1B-DA11F6C4-A293F869-322DAFB7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4A79E42D-495B1484-94BD2072-D46B7136"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A6B59F00-9FB60961-1B6152A5-DD5DE7ED"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7E2989F1-60208C42-484758A3-64DBD43E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A6F8280F-556CB59E-A94B6D0B-A8CCA702"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile36x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C9A23169-F54669FA-37D34257-6EC80B29"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AB90A7E2-A08F1A0C-E2F05D77-E573814F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7A9D0D46-A4684E69-E7D9DCF5-328254D3"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "263128B0-AACE0593-1B82F5AF-068B63C0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0DC21C1D-9C3CFB25-AA1C698E-642ED0FF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3F2D9756-E235DEC2-72791224-FFA74970"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "733FBB5B-1E91716C-04011C15-5D50F2B0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "49332D55-88117D36-D7618309-CEFC1BEA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BFEFD371-99556A6E-524D38D6-E92492D9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5D69EAD6-0CDB0AB8-0BF07A7C-B7B5AEC9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5E394CF6-230757F8-3E77BC70-D80C60E7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "55733487-02E7216E-35C6027C-55573015"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FD761D06-971B940F-BFC78039-66F8DEDC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8E1FFCED-051B9476-6839FDC7-2616E8FE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "95977E79-91EF0EB5-4CA44FF9-2E417D68"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EEF338EE-2FBB9779-9688D8C0-32F491D7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "94D9CB68-5C58839B-5862093B-9F3CEE28"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B60767D0-8AB51E3E-31132F90-0F3FD47D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DE080406-64CFD275-42C2040C-83EFFCA8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "574DB09F-40B3F755-6C49E5C0-686CE2F7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8A60A6C1-65F171F9-E734DF37-75E24B03"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8B869E23-A4F3BB69-466DEEBC-5A452954"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1DE8480B-36F76CD6-96CE60BC-3A7AABDA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2822E019-282CCDC8-E1D39955-64C6BA49"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "93B3C249-D1A08AC6-11EE40E3-23CB6011"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "589D132C-3BA2C3B0-8BA315C5-EBC8DEE8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6C7B9F08-C3F9AD33-0997CCC0-57FE595B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile37x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "47DFD701-6A7987F4-E68CBC18-6DCE8CEB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9D8F56B7-E245BAEA-AC2B4488-ABDE41F0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B8574991-8CF67B6A-A44E2EA8-EAB3EA04"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "47E3C17D-1D03006F-5FBF47F0-33BC10AA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FB8FB4EE-83E0795A-DC9EF2A2-DB92860D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4FBDB1E3-1262AFFE-08E93E11-E69AA99F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9515B374-D08F5A97-6E1D4D23-21808E68"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DC3F8015-719A1588-115ED408-59D3E7E1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A69F3152-D5C0B10C-883475FC-D03D3072"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "24D56C11-FF9F773D-4E7C5FD5-C9326698"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "85273AE0-BFB8157E-0C4E90FD-AC021346"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7613E4FB-60CB402D-7F8D6216-D613E801"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D0B4D73A-C9A06F31-D589B389-FD0E41E9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "938CD88C-3D89BF28-9E5ACC98-B02381FA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F2ADB49B-AB809926-41B56355-2C372BB7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "26B559F0-A60686C8-A6B85B93-76192449"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3AD3DEFD-2E68B0B0-D395BA7D-E50F7744"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A9ADC5C6-93268294-481257C4-9B76E371"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7556E86A-DA8420D7-3D4BB39A-479EB906"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A0CBDB18-8286C61C-2668AEA8-6FCE7D54"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9F1D3DE9-18DF7FB6-DD94A371-6791B752"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1A8C419C-13EF5802-BC968064-10BF0454"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "95DC6675-0B4E53F2-B5A4BBC2-F8AFFD5A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C9CB93A4-F4549290-06343DF6-9E6F5A13"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B8062AB5-A1C846F9-07D15CA0-CA6EF7FF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A50A0774-3EFDE6FE-4EA029DC-E7E1681F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3E092703-71680166-E342C7B3-C4380E4D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile38x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B8032232-12271645-BB1E0C3B-4C97570F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9AE6BCDE-669E4C4F-2D472AFD-F5BA2832"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4B07D54C-E348E9F4-FAB9ADAE-C937CB9E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "664C2148-934040B1-3D561A91-60A04F99"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8A6901F8-BA36C7BF-BC46D2B3-0B96C608"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "45996BB6-07861E98-5DAE52B0-9C27DBF1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9311DE6A-CB4CE4A6-4F010B91-64D24119"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "20E8BBD4-4EA65561-A5B282DE-C048212F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7D75AA16-137A4EDD-5F591D75-E879BA14"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "26825738-D817D49E-C2B0D227-2D3F535D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "97EB624E-FA306149-D8F2C9D4-252C3228"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0E6C5B02-7D280BE1-8888457A-D8383998"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A5A4AC63-7830EC36-2E6E1F56-AF36CE90"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "779D4F35-F98E86A1-DF00A2E1-243369CD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "371978E5-268E6145-8A8E866C-544A8DF3"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AE4289A9-9207DAD9-13C28C89-B8151CDE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F7CFF7F1-C74CDD4E-3B1409B1-7E33D045"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1405CA8D-5D0949D4-3A6A5AFB-DA615944"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5613BC48-3F94C786-B2E5AA42-05453C5C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "534616F5-8BA5B6DF-A607C4F8-15DAD771"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "538D8AC0-5093C0B2-CCE320D0-E1BB22E8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1DA0B16E-AC36E8E2-C90CAAA9-EAEF0E18"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "232421DA-FAB224FA-17441131-237BBA26"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "03CAD4B0-2C2A674A-02587277-74146F5C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "04236E1A-18FC02D7-8DB7C9E3-2C625753"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "06AE6E31-DA535EA0-44BA19D5-592C2C32"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "62C7C491-B31FA8B3-C1C418E0-45AE833C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile39x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9D67E8C0-239EF20B-ABB84A7E-C718842B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B60C247C-6FD6FD6F-6D1A18A7-42E468FB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ECFDFB7F-260BB580-078C8CB2-B797F124"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ABF1FC48-ACA2D6E4-8EB49252-80F89B3B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "537B739D-B3EACE50-D44AC093-4F226934"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C0B7506A-52BA3EDB-9F17130E-FB2EC90D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EDF1B58D-0300FC0B-92EC9EF4-4EC6445E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AD56B6FE-C46D4000-1132479E-1FF217B5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "97B61A0C-37FA07EA-CB50EBC1-900314B9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2FDDAC0C-19A75AD3-9B13104A-1CB62FD6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E15D7212-04C4D679-87603283-5CB1D182"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B1142565-B869BE84-FAF37A70-C82DB899"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "988C41D1-9497D359-516131B7-4F269E32"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6ECC6D71-05CEF41C-B50ADFAD-5E3A0EBE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F2C2B528-F69D0A07-C59E01E0-C5EE98A8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F57FA7CB-BF823548-257091B0-B9CBF057"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0AFB92CF-51BEBA01-FCBE9F0A-2BA1B3D3"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B4835D66-73FF979A-64F1199F-7A054457"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "381DC840-680A433D-8E26B499-C67CE6DD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B0432B67-D59D611D-068BD675-499F40FA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "98FE1194-2332AF90-45D7B27E-9166BBF9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A574AC86-0E9D6C57-E05E4236-9CA2E18C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4F8C438A-942B1B10-E5C5A913-A0E94087"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5D38A7C9-77034DC5-37A964E3-017AAE4F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E900BE28-5AF3949F-5DB8D641-D11CFD04"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FA3C7E7D-1DB240BF-0A776E75-6F4B1ECB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E6508935-20947552-8CDF2CC4-CB5DCBFE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile40x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C0A841CA-8294C46D-6BCE8E4E-64F7B992"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F8C6C883-42D69BF8-34425684-EE62ABB0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "01C8BDB0-7B131DB8-753E4FD5-FF42DB52"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2B3BFDBE-8476C1F0-81B99B29-E32FE6B6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4DE5E357-1DD9B3D1-8395F169-B1C52B1C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F0040751-104B6C4E-3FD335F2-BD50D1C9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CABF361D-FFCA91C2-859C5596-71B27F3A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EFD51CF3-BEC3EA16-483162B3-0ACE158F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1CF51A7F-D995EE24-B7082E0E-3C6B47E7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6AC65986-9E614110-52BBAB08-ED366E9F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "416E5A81-C5091158-149C1E2F-15D41B17"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "65533C01-3D777E33-B5AAFEEB-33A5FE52"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2C47069D-033EFD00-59B2315C-F2144F98"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "097481A1-907208E4-5A0C741B-47F63EB7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A1AAC329-BC89F6EA-9320D8B4-7C537B1D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4D933677-149C3F70-B048ABBF-16644688"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CFB1D567-CD0F5ED4-1AC33826-4EF56E87"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EFD9B7F8-AC61FC7E-8BA609E4-2758EAE2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "341AB840-FAD23487-3D5E874E-7D935153"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9F1C64B1-13A5B9CA-F8AD07F0-7D460E07"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0CB2234F-BEB44278-942A2DCB-79A100F4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "96155B1E-C8EE44A0-2668BF98-78A5065A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9675A84B-54F3C608-AAC5B983-992C9335"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "378B3375-6E4F6E71-339606EF-41FC35A9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B06FA8F1-EC62188A-69FFF7AE-0DB4A34C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CCD03C52-9E3BA929-81A127FF-873E27AE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B6716354-2E9F69EC-E43AA184-89DFA0C2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile41x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "675EE7B8-6C63261F-F3AFA29B-EF60EE4A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "64B192A0-08BD695C-184DA038-CB6A1F2A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "22649F17-E716A247-BEB6ACA3-9B186EAE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CA2A1CF0-4B22BB8A-F0C4B249-801F0B83"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "86BDFDE1-6EA9AD1E-66909CFC-33009D21"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "262905A8-6C5279BA-B40FFB51-998AD291"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4F6FD76C-67809967-650802C2-42229F73"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4907FEED-33AC3475-96392F81-7E88D7DE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BF3164C6-E78107F9-686F567D-FB7AF7F4"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A6632F71-721815B9-1240FB3E-189D1B75"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F2A92107-34726315-4FF1F09B-FBF33926"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7BFA6772-2D119055-DD99147A-58B8D3F3"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3ADCCD74-4759547D-7EDBB509-B185B43C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "924AEB91-BC8852CB-D583F8CB-E38D1D46"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FD85595D-C584AFC1-BB4E9E74-2FCAA278"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9FC9DB07-1F7D702D-C3C11E44-68C28779"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "319E9C0A-0881E6E3-DE704019-CC707F40"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0C86A2B6-5341A896-0AD039A4-1A5D81E1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F4C198AB-ED454FE9-4018BC67-4ED74043"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DD26F019-2C88DEB6-302537E6-99632E7B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "57330B26-415A4706-3FDF0416-3E98CB9B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "27DCF080-C4223680-D9DC203C-A40C09E7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1363104E-FD7EFC7C-13F71456-3C7F2E26"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "961B1E6A-8609C4C0-366830A8-E2011FB0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1A2E8A16-FE6D33FE-CC48A804-581492E8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C513F3A4-EC853A29-6FC51541-5055092D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "83FA279E-EB7228E0-64944EF5-512BB622"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile42x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3D59322F-7BE8BB29-C355F9F0-FCF2E8A7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x15.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2A580048-B91382A0-B4849CC2-0E9D013A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x16.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1276FDEC-C9122304-AE3D5AE0-D7D10338"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x17.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0556819E-BC3BACB5-BCADED35-74B0A0D5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x18.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "45CDED5D-819BE37B-6CC9F7B0-A1FDACBF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x19.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C381EDB9-C6FDA97F-61CFC407-60F8873C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x20.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "75404C1A-3406DCB6-21A8FED6-AED8F362"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x21.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F78F4701-132566AE-EA3864C3-CD8C6219"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x22.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F02B6747-EAE234D2-4C0BAC6B-5B811832"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x23.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CAA3733D-48F1A800-5AE679F8-6F2A5E49"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x24.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AED7C035-37EA225B-78D03B18-D715857A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x25.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "377F2AEB-450C0082-2FBFAB2F-ACD8099A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x26.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "63E0598C-A91B73A5-EE5ADB93-8B0FC52B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x27.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9442CD7C-D99BF582-555D1054-14335F53"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x28.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7D813458-97A97396-D57D2F2C-93F7B11F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x29.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0FB6A016-9C9FF7EF-0C3EA939-86B769B9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x30.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ECF00482-33F60B28-F19CF3AF-EC27FEFB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x31.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7875FDAA-96FBAA7B-10F9F2EC-D2E17283"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x32.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1EED5B64-15C15AB3-80ACBAB3-F1914F2D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x33.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FB48481E-D42F593E-30965457-75CBDD69"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x34.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "96AAD85D-DC39EC08-4669C228-4EBDFB43"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x35.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "589604EC-8C34178D-EE6CA0EE-6851CB4B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x36.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A696FA45-836166D0-7D28BD28-44B0B741"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x37.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1C1B7BA5-3AED6DE8-C0A8BB39-BDDA9126"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x38.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C21B9B71-675326D2-98EFC512-3456BBE6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x39.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "821E0E63-C3281CBD-DC2F3A99-A9C02FF5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x40.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "53D70606-84C93283-E9C31E71-A73A6CD1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\novigrad\\tile43x41.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BA8F63C0-5077D9FD-6A09300F-4EB6CBB6"
         },
         {
             "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile10x10.jpg",
