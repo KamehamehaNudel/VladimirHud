@@ -1065,6 +1065,412 @@
             "id": "44FAA52E-F7F02A2E-4EDC03EF-8B4D9050"
         },
         {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile0x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "17C9B77B-37CD81D6-475065DB-556154C2"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile0x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4E531CDF-F3ECF9B2-8D267775-53E6BA9A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile0x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CE8105BC-A7D5BC25-5CB4D5EE-6F7687EC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile0x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "46CD5BFF-60566511-0CB76EFC-2EBEAEE5"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile1x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7CA0101A-9F8AB843-A1141D5C-3C859C9A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile1x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E4B35398-375C1D5E-43DAC56B-E59C0068"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile1x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E5E0BBF6-24C9B3B8-B3AB9A9C-61E66221"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile1x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ED90F0F4-CB90AF3F-D2FD0B6F-1F1B62D3"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile2x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2C87257F-3AB8C3F1-389BEAF7-505803D5"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile2x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AF52E723-FE0905D2-5B6FE1D9-8DB3AB97"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile2x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2134F488-64EDC2F0-8A926B8E-3FA39F04"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile2x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EFF63FAD-45ECF181-A1A19686-18C3FDAB"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile3x0.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F052FF50-85842648-D90D2E39-74BCDA9B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile3x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "77E3C6A1-466B99BD-84C29F4C-13D14731"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile3x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5C29B357-3993E38F-A3083E7A-86933038"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level2\\tile3x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E740055B-4C0F61A1-A5C818B5-BB9E3B0A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile1x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4116F9AF-38EB9316-FFFC088C-731C3D51"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile1x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0C31CD85-DD0C230D-697341C9-86BBDFC5"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile1x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5BC7B0F3-EC7B02E5-7E3945EA-D4C321AB"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile1x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2D7286B8-1B442F67-87C069C1-F76E43A0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile1x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "60A5B3A3-EC30A4E7-E77830EC-FCA30AB6"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile1x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6705A7E5-DA71CE9C-C19F711F-4E25BC9C"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile2x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A5EF8D57-75CC33BD-7A20D367-22EC2370"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile2x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "48D02A6E-DB60F24B-4143B7AE-B0EF6191"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile2x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5160C481-5314E0A1-3C415DA6-E60C443E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile2x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "18441A70-91B3B770-49123240-7BEF6581"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile2x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1BE111B5-17ECEF78-F413C549-CCD8EB46"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile2x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "05578861-4AAAF9A1-E15CC7BB-1E4F18C9"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile3x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9B9CEF7C-6641839D-D515F2B3-64A6D6DD"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile3x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0BA6351D-A600F1AC-81A0CCA6-A7040D01"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile3x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "340E9DAF-FC4FA789-0C01CDED-3E177623"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile3x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FA03E7E3-CEE628C7-77D58D8F-A160A02B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile3x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7F358E98-89DC5534-D51B1F89-091172FC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile3x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D081A722-9D4A1084-9C55AD5F-ACB615AB"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile4x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FE2D20AD-A1B0C52F-AEBCCD65-DBCC13DB"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile4x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E77539E1-3FBC0C19-0A1F6641-5293DDE0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile4x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CFBD2456-9C48099C-31B648D6-6422FEFA"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile4x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EB628C17-4566F7A5-8AF3BA58-FB287769"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile4x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "53A5A5E3-8B361C63-2F560966-F20CE0CC"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile4x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4A4F56E1-7F61E4B9-045ABBB0-32DE0386"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile5x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CE5E5931-1CC3D02E-A98DB9DE-23DC8CB2"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile5x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B552756C-28D4ECAF-33CC0272-30C34126"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile5x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "54032875-5A824B5B-E80D571C-E44709A6"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile5x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B93DD4F6-FE9F908A-7F68A066-125B84DE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile5x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4B1A1A31-FCA7FA40-A77A66D5-B627FFB8"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile5x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "76F8731A-BCD5665B-C4DEDE87-B72168EE"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile6x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5081EF44-9956E12B-5996B6BF-BD4FC21F"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile6x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8C25EF47-1D62BA98-7C8835A5-29014AA2"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile6x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8A9DDE87-B11FD680-65C431C9-B65F100E"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile6x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E39A1F91-FFEF2CBA-9A8F85BE-78002A8A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile6x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "74581193-1F3D10C7-1560832B-F2FC1A9B"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile6x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "98463E50-C2B3F95E-19D6B5A4-F06F6C70"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile7x1.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "06E19152-A1FBFE83-BAE24D9C-E0FEB468"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile7x2.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D786883A-BEDCD21F-071EB427-CF1C4E0A"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile7x3.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4D3708C3-9556C715-344CEB34-AFB8966D"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile7x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9537ADD0-FE7C6398-F89E680D-80EC96E0"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile7x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5589FF81-4D5ED7C9-C9A618D2-03674C55"
+        },
+        {
+            "path": "gameplay\\gui_new\\maps\\prolog_village\\level3\\tile7x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D4C8F62A-542B6995-FA0D77F6-918447E3"
+        },
+        {
             "path": "gameplay\\gui_new\\maps\\skellige\\level1\\tile0x0.jpg",
             "level": 0,
             "seed": 1,
@@ -3443,6 +3849,699 @@
             "seed": 1,
             "consumed": 1,
             "id": "C6E9CC05-C3296117-BE9975CA-8DD7CDE5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile10x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "632A7659-877D76A1-6806C0C5-0B8A7417"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile10x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EA1E8890-63457DDB-5C301673-6BF23A7E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile10x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B57054C1-6AC91F2A-9F88A36E-976D5AAB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile10x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DC5DA8FD-E0A0FC41-2C126B82-393A6237"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile10x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "586BAC8E-53439CB7-1C7C4E27-8CBD2624"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile10x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5E1CEDD4-30618639-71E4B07E-813C3C4A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile10x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "928DE295-1881B596-002E0A40-ED67C06A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile10x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8E24EEB6-AA86C06A-4A837D73-1FA33EEA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile10x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "284EA6EF-CB5807B8-4386CC68-7520AA64"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile11x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DDFE8309-D99FB9BA-4956B4C5-33C4A66B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile11x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6A1E3570-5440699A-7CE41E0E-A0D764AA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile11x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "19AF39A6-D82CF845-1A90C5E8-2B86B7A9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile11x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "09984D2C-86D5E747-1EF303A0-1D1F7589"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile11x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DF223735-AE46DA34-EAF7B92B-82F6EE4B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile11x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EF82BC53-8AECCA28-7548E3E1-E68F193E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile11x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "ECB7C264-A599DDF8-195FE9E8-DC4D2A69"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile11x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "38DE6C09-2E52AA95-D0D843EB-EA175771"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile11x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1F32E4B4-EFCC4199-7C321FBA-E1097A1B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile12x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "34AC4620-644DEF6B-BE0B224C-46FCD698"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile12x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C033E7E1-E1ABF9BE-5E121EDA-51D2345F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile12x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C0F445D9-6A7667AE-9A5EAAED-4A4AC0BC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile12x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F5CC9D93-53ACB46D-8A423CB3-A3BEE9EB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile12x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3C56D5A7-8460C423-89EEDC63-D79D1706"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile12x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "453BF1AD-57BF7333-97747CED-4929EDCE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile12x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FD554EF2-3F57034A-E1E2DE07-3CECD965"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile12x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "03C4D151-C0ACF920-07B4F2F8-A068E0E7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile12x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5FB70B92-A450A406-A06D3CDE-DA0FCADB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile13x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7E93CA52-2723ED76-77C85A2B-FA303055"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile13x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "81EB6207-D893B107-E4E05B17-FE65DDD2"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile13x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C2E2194C-06B2B73C-E518B084-36CED6A0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile13x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F74DF3C1-E96D76D8-DD1D557F-DA5EF5DF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile13x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9FF3E6FA-F8FB08EF-B5592B3E-2E87ACEA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile13x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F0CD68E7-16CD43C4-3AE29DF9-347A0AAA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile13x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "28A715A0-314D1908-D3D84B14-20EE32FB"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile13x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4C4933B0-D3136316-FF837692-BE5F78CC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile13x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5E832730-1A1C4FFF-60E67189-DD00FFA0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile3x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D5ADBEFB-892211E4-D0D7E38F-E04916B5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile3x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4404A75E-9EEF51E2-76C0B50B-0F256C68"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile3x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F6611816-6563D835-1064727D-BA459B5A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile3x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D8E53ACA-9ED65129-B9F24911-5408EB93"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile3x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BA0F9C35-7F59A21A-E035ED15-E920EE94"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile3x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "316C513F-A5F9AEAA-8F8FD1B4-52CE51C0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile3x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "11954CAD-EF1390D2-F4742EE0-B706B1B6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile3x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "68EC6A58-2D56E2C4-D84BFECC-3AB096A5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile3x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AE75D489-18567DAB-1E36AA64-422BC5D1"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile4x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3EBDCF2F-251874D8-1B6020F6-5945FE05"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile4x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6CCA3678-092DB37D-A1E9CCB1-0D69D775"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile4x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4EE8207F-1459974D-AEEE4231-04D6450F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile4x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "422F05A9-D564C757-2F7FFD10-B9EC41FE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile4x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DF67047C-3217C887-FF944552-2E9B48ED"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile4x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BB8A3CF3-6BFF358C-BDD30CE0-95686D6F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile4x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F5697DDC-B5680E74-4F062DC6-B2E859E5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile4x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A891DEEB-45C971CE-AFB943B1-AB81B168"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile4x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9DE7F38F-381F024E-FCD33C92-5CB781B5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile5x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "105C6456-8C758718-9B5A294E-D577C14F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile5x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F60BD5CE-D079901E-E72E4EA2-7B37ED91"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile5x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "459CC872-04D9AD6E-313B965C-B82B2C1E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile5x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C761648C-9D75FC0D-648B16D5-E3247F83"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile5x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7914A5FE-5F28825F-158FFB4A-6DEC599E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile5x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "954A5C05-7FB746A1-C23CF413-9B023E35"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile5x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CAD30373-5133E538-945F60F1-36BA157A"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile5x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "26B98758-7202EA1C-2446E752-CDB2A259"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile5x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8599AFC9-7DA33FD8-BBB3AEA1-FD81BA3F"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile6x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8F671E78-AF8AE4F7-DA15A722-051220AA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile6x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4BAB971A-38517361-C274793C-DA96D2A9"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile6x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8A348901-134271BB-F4996CE2-1F83CA3B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile6x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "33BDA3BA-BA89DA9C-AD03C527-AC405F5B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile6x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F7BA6AE7-900EA680-53A4FFA0-A99C2EF5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile6x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "642C9161-28418D51-0C376329-D19A139D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile6x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AF40EEAA-9CC52CDB-21D1127F-3EA87D4E"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile6x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2663EF39-D96730A7-0F7883F4-CC9EA0C0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile6x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "06F8945A-F321ADB4-77B67BB9-75EA6DCA"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile7x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "29EBD294-1A20DADA-5B8703D2-CD934F16"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile7x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5EC8C806-AC638D6A-DB121EB1-6127C569"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile7x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "173B51AA-496715E5-E507B9CF-5E551200"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile7x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A0A26CD4-62090517-D1016B32-9AE26F1D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile7x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "727DD1DE-A998C5BA-962A48F2-BD5CAE31"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile7x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A36B7FD7-A0BB7986-81EB5258-06560903"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile7x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6A110B1A-8EC608C2-071DCEEA-96751E97"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile7x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "08A50EC5-83E69A61-41992C3E-FC919B1C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile7x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9EBB1CFF-EBF29C06-884BE63C-A8E955AE"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile8x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "851F4F07-539FBB1A-C89DC50E-998F4BB0"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile8x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "79B5E628-76D4B900-94E57727-91BE8D44"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile8x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "DD23F806-68826184-B5835F81-8ABD55CC"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile8x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "67A33550-AA6EC2F9-06D3C591-30A798F6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile8x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "73919CFA-C02BC479-99A94AA6-09A16BA8"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile8x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "3A075C84-1175436A-E01CB158-B8D182C7"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile8x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "98936C62-3267335F-FF9FB6D1-735A7454"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile8x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "492E3307-419F9713-7D0A3C26-9B706F5D"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile8x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "123742DB-C48B19A3-EE819A89-86AE5AFD"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile9x10.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "CD3BA5F5-FA195B62-D0B23A06-544E079C"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile9x11.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "742985FA-4E9BEA44-0058F28F-F17C4F01"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile9x12.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "AC8B5C0C-6B1AE8A1-41FBF8A8-9045CBC6"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile9x4.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E20A51D0-FA70E236-04D25C79-817810A5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile9x5.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "EFD78BF6-77A69436-1D291A86-4E012DC5"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile9x6.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "77C33E1C-265BC9FB-08269A05-BF273A0B"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile9x7.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "35F953F7-486CE488-88064C15-E3CDFBAF"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile9x8.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6D609A0F-B1BC5A94-63974F02-296C6800"
+        },
+        {
+            "path": "gameplay\\gui_new\\minimaps\\prolog_village\\tile9x9.jpg",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "0088AAF5-B9227D70-3BF24933-0AFB46B4"
         },
         {
             "path": "gameplay\\gui_new\\minimaps\\skellige\\tile10x10.jpg",
