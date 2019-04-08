@@ -1,6 +1,90 @@
 {
     "files": [
         {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_1.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "333C91B7-D8C59651-6ADDFE48-DFF01885"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_10.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6CB7BAF2-3CCBDBFF-741C779B-A9592585"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_11.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1CD09026-B4E26793-ABEC96FA-391F803A"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_12.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "555B26E6-BEB14878-1B292D01-00BA66D1"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_2.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "41109B48-074147A7-3A7CC6B8-0EDDDBFF"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_3.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "03D60F53-18AB2EA7-6A7EEC2D-D9EBE5BE"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_4.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FAFD14AC-A1ECD105-542C4CAE-D3915E7A"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_5.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F6467279-486FE170-D0B00C61-8BE60E61"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_6.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "57771A39-95578F2B-C77DEB97-7207D9E3"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_7.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "246B6E44-4269BF46-C7DAF8A1-C3BC57B5"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_8.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B73DEF2D-72EBB9E4-5DADE278-06329B96"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_9.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9663C4BB-08D8B86B-346EFA32-9DCEC13F"
+        },
+        {
             "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\hd\\common_hd1.png",
             "level": 0,
             "seed": 1,
