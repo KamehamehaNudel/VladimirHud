@@ -1,6 +1,174 @@
 {
     "files": [
         {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_1.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "333C91B7-D8C59651-6ADDFE48-DFF01885"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_10.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "6CB7BAF2-3CCBDBFF-741C779B-A9592585"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_10c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "735CFA1E-1FE143DB-BAD3C008-C68FE7D1"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_11.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1CD09026-B4E26793-ABEC96FA-391F803A"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_11c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4E93FD71-F7E9F754-E41C9D6D-12DCDBD5"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_12.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "555B26E6-BEB14878-1B292D01-00BA66D1"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_12c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "996A17F0-F04F6536-A340D036-F8CD30AC"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_1c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D85DA00A-23189CB1-6108E469-DBEBC4D6"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_2.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "41109B48-074147A7-3A7CC6B8-0EDDDBFF"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_2c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "04378EFE-E27F4033-13860867-1CAB0A15"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_3.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "03D60F53-18AB2EA7-6A7EEC2D-D9EBE5BE"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_3c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "363ADCFD-908A2702-6315D3A5-5906DE75"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_4.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "FAFD14AC-A1ECD105-542C4CAE-D3915E7A"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_4c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B0DAEBCE-09544561-DEC0274D-CD9A23B8"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_5.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F6467279-486FE170-D0B00C61-8BE60E61"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_5c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "42BABE9A-EE6E5C14-5F621B46-BF967A69"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_6.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "57771A39-95578F2B-C77DEB97-7207D9E3"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_6c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "A265A133-3CA89D13-89267B84-97978D0E"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_7.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "246B6E44-4269BF46-C7DAF8A1-C3BC57B5"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_7c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "2898653A-CE66FE19-8B0FB7E3-5EBBDEA0"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_8.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "B73DEF2D-72EBB9E4-5DADE278-06329B96"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_8c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "75627B8C-A49815C4-6F1BCE28-F2638E43"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_9.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9663C4BB-08D8B86B-346EFA32-9DCEC13F"
+        },
+        {
+            "path": "dlc\\bob\\data\\gameplay\\gui_new\\icons\\mutations\\mutation_9c.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "F9BB95A9-4933E43E-E1D110A5-8EA22FAC"
+        },
+        {
             "path": "gameplay\\gui_new\\icons\\alchemy\\alchemy_ring.png",
             "level": 0,
             "seed": 1,
