@@ -393,6 +393,13 @@
             "id": "8E59EFB9-F4AEE532-55C9EC26-2CBBF6A1"
         },
         {
+            "path": "gameplay\\gui_new\\icons\\shop\\shop_ring.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D09F2C64-08991637-BDAF31E6-2D74790B"
+        },
+        {
             "path": "gameplay\\gui_new\\icons\\skills\\alchemy\\alchemy_s1.png",
             "level": 0,
             "seed": 1,
