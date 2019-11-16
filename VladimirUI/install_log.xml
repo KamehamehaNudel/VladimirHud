@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<InstalLog Project="VladimirUI" Build_date="12.05.2019 13:50:28">
+<InstalLog Project="VladimirUI" Build_date="14.11.2019 19:37:38">
   <Files>
     <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC">
       <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI">
         <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content">
           <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content\blob0.bundle</file>
           <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content\metadata.store</file>
-          <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\DLC\dlcVladimirUI\content\texture.cache</file>
         </Directory>
       </Directory>
     </Directory>
@@ -15,7 +14,6 @@
         <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content">
           <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content\blob0.bundle</file>
           <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content\metadata.store</file>
-          <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modVladimirUI\content\texture.cache</file>
         </Directory>
       </Directory>
     </Directory>
