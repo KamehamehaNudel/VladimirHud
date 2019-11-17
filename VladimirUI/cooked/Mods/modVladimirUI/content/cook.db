@@ -183,6 +183,13 @@
             "id": "8A664D30-31EF13A4-5A25194D-1D4CEBDC"
         },
         {
+            "path": "gameplay\\gui_new\\icons\\enchanting\\enchanting_ring.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C45A6543-23EF42B6-7E56F087-255CDCBF"
+        },
+        {
             "path": "gameplay\\gui_new\\icons\\inventory\\mutagens\\mutagen-01-greater-64x64.png",
             "level": 0,
             "seed": 1,
