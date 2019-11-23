@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="vladimirUI_maps" Build_date="23.11.2019 13:40:27">
+  <Files>
+    <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods">
+      <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modvladimirUI_maps">
+        <Directory Path="G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modvladimirUI_maps\content">
+          <file>G:\Andere Spiele\The Witcher 3 Wild Hunt\bin\x64\witcher3.exe\..\..\..\Mods\modvladimirUI_maps\content\texture.cache</file>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>
