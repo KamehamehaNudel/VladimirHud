@@ -1,0 +1,116 @@
+{
+    "files": [
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\hd\\common_hd1.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "5F5DF32E-DC93675D-6DDD4638-E64AC73D"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\hd\\common_hd2.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "7740A343-A68ABC43-1613E464-EB3ECBEB"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\hd\\common_hd3.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "9D1CF53F-93B00C3D-DC40C5AA-83D59793"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\hd\\meditation_hd1.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C120B3D4-ED1930D6-D7F62F21-713B476D"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\mappanel.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "96489D9C-9E972C5A-AD14A238-339AEEA0"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\mappanel3.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "1F0B44AE-844CC935-1862E813-7E781B84"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\mappanel4.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "956C00F9-64CAA3C3-B3F4DBDC-449F5979"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\mappanel5.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "C2A58EE3-7C5743F3-5C0CFD98-73F08B7A"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\standard\\alternative_sd.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8128AD20-D7DDE578-9CA7EA19-61CC0112"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\standard\\common_sd1.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "8B6A085B-ECE630CD-15C33FF5-F172E0A2"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\menubackground\\standard\\common_sd2.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "35F517FC-1DEB497D-FBFCA974-50D08246"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\textures\\journal\\locations\\circleofelements.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "4BBF7457-468A1EB6-D7F4535D-52A02434"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\textures\\journal\\locations\\fykeisle.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "BDBB3A54-CE55436D-70751BC2-A8889BE1"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\textures\\journal\\locations\\fyresdal.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "D2C074F6-758DC3F1-EB06836D-AD96839D"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\textures\\journal\\locations\\kaermorhen.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "752EE279-5B794CFC-3E2D9052-7838FC0B"
+        },
+        {
+            "path": "dlc\\vhud\\data\\gameplay\\gui_new\\textures\\journal\\locations\\vizima.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E3477791-3EF576EE-4464FF9B-6EF3A6B1"
+        }
+    ]
+}
