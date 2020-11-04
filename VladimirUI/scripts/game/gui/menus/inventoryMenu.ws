@@ -435,7 +435,7 @@ class CR4InventoryMenu extends CR4MenuBase
 		
 		for(i=0;i<allItems.Size();i+=1)
 		{
-			if( realHorseInv.GetItemName(allItems[i]) != 'Horse braided tail 1' && realHorseInv.GetItemName(allItems[i]) != 'Horse braided tail 2')
+			if( realHorseInv.GetItemName(allItems[i]) != 'Horse braided tail 1' && realHorseInv.GetItemName(allItems[i]) != 'Horse braided tail 2' && realHorseInv.GetItemName(allItems[i]) != 'Horse Hair 1 ep2')
 			{
 				id = guiHorseInv.AddAnItem(realHorseInv.GetItemName(allItems[i]));
 				guiHorseInv.MountItem(id[0], false, true);
