@@ -157,6 +157,7 @@ class CR4InventoryMenu extends CR4MenuBase
 		var pinTypeName 	  : name;
 		var defaultTab        : int;
 		var hasNewItems 	  : array<bool>;
+
 		
 		m_initialSelectionsToIgnore = 2;
 		drawHorse = false;
@@ -417,9 +418,15 @@ class CR4InventoryMenu extends CR4MenuBase
 		var ent : CEntity;
 		var guiSceneController : CR4GuiSceneController;
 		
-		guiSceneController = theGame.GetGuiManager().GetSceneController();	
+		// ---=== VladimirHUD ===--- Erx - new stuff
+		var itemName : name;
+		var horsey : W3HorseManager;
+		var horseyInv : CInventoryComponent;
+		// ---=== VladimirHUD ===--- Erx - new stuff
 		
-		realHorseInv = thePlayer.GetHorseWithInventory().GetInventory();
+		guiSceneController = theGame.GetGuiManager().GetSceneController();	
+
+		realHorseInv = thePlayer.GetHorseWithInventory().GetInventory();		
 		realHorseInv.GetAllItems(allItems);
 
 		guiHorseInv = ((CActor)m_horse).GetInventory();		
@@ -433,15 +440,45 @@ class CR4InventoryMenu extends CR4MenuBase
 			guiHorseInv.UnmountItem(allItemsGUIHorse[i], true);
 		}
 		
-		for(i=0;i<allItems.Size();i+=1)
+		// ---=== VladimirHUD ===--- Erx - new stuff
+		horsey = GetWitcherPlayer().GetHorseManager();
+		horseyInv = horsey.GetInventoryComponent();
+		
+		itemName = horseyInv.GetItemName( horsey.GetItemInSlot(EES_HorseBlinders) );
+		id = guiHorseInv.AddAnItem(itemName);
+		guiHorseInv.MountItem(id[0], false, true);
+		
+		itemName = horseyInv.GetItemName( horsey.GetItemInSlot(EES_HorseSaddle) );
+		id = guiHorseInv.AddAnItem(itemName);
+		guiHorseInv.MountItem(id[0], false, true);
+		
+		itemName = horseyInv.GetItemName( horsey.GetItemInSlot(EES_HorseBag) );
+		id = guiHorseInv.AddAnItem(itemName);
+		guiHorseInv.MountItem(id[0], false, true);
+		
+		itemName = horseyInv.GetItemName( horsey.GetItemInSlot(EES_HorseTrophy) );
+		id = guiHorseInv.AddAnItem(itemName);
+		guiHorseInv.MountItem(id[0], false, true);
+		// ---=== VladimirHUD ===--- Erx - new stuff
+		/*
+		if(realHorseInv) // ---=== VladimirHUD ===--- Erx - new stuff
 		{
-			if( realHorseInv.GetItemName(allItems[i]) != 'Horse braided tail 1' && realHorseInv.GetItemName(allItems[i]) != 'Horse braided tail 2' && realHorseInv.GetItemName(allItems[i]) != 'Horse Hair 1 ep2')
+			for(i=0;i<allItems.Size();i+=1)
 			{
-				id = guiHorseInv.AddAnItem(realHorseInv.GetItemName(allItems[i]));
-				guiHorseInv.MountItem(id[0], false, true);
+				// 'Horse Universal Reins'
+				// 'Horse Harness 0'
+				if( realHorseInv.GetItemName(allItems[i]) != 'Horse braided tail 1' && realHorseInv.GetItemName(allItems[i]) != 'Horse braided tail 2' && realHorseInv.GetItemName(allItems[i]) != 'Horse Hair 1 ep2' )
+				{
+					id = guiHorseInv.AddAnItem(realHorseInv.GetItemName(allItems[i]));
+					LogChannel('HORSEY', realHorseInv.GetItemName(allItems[i]) );
+					guiHorseInv.MountItem(id[0], false, true);
+				}
 			}
-		}
-		guiSceneController.SetEntityAppearance( GetWitcherPlayer().GetHorseManager().RequestGUIHorseAppearance() );
+		}*/
+		// ---=== VladimirHUD ===--- Erx
+		guiSceneController.SetEntityAppearance( horsey.RequestGUIHorseAppearance() );
+		
+		
 	}
 	// ---=== VladimirHUD ===---
 	
@@ -2419,6 +2456,7 @@ class CR4InventoryMenu extends CR4MenuBase
 		OnSlot = false;
 		itemAlreadyEuipped = false;
 		
+		
 		if( _currentInv == _containerInv )
 		{
 			if( _shopNpc )
@@ -2742,6 +2780,7 @@ class CR4InventoryMenu extends CR4MenuBase
 			
 			// ---=== VladimirHUD ===--- Erx
 			RefreshGUIHorseEquipment();
+			
 			// ---=== VladimirHUD ===---
 			
 			return true; 
@@ -2755,9 +2794,11 @@ class CR4InventoryMenu extends CR4MenuBase
 			InventoryUpdateItem(item);
 			PaperdollRemoveItem(item);
 			UpdatePlayerStatisticsData();
+			
+			
 		}
 		else if (_inv.IsIdValid(item))
-		{
+		{			
 			if (_inv.IsItemBolt(item) && _inv.ItemHasTag(item,theGame.params.TAG_INFINITE_AMMO))
 			{
 				return false;
@@ -2836,6 +2877,7 @@ class CR4InventoryMenu extends CR4MenuBase
 		{
 			InventoryUpdateItems( gridUpdateList );
 		}
+		
 		
 		UpdateEncumbranceInfo();
 		UpdateGuiSceneEntityItems();
